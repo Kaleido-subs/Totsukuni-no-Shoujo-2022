@@ -118,7 +118,7 @@ Dialogue: 10,0:10:12.61,0:10:16.03,Default,,0,0,0,,but if you'd like, you may re
 Dialogue: 10,0:10:16.61,0:10:20.03,Default,,0,0,0,,There's a bed in the back room, \Nbut be warned that it's a bit dirty.
 Dialogue: 10,0:10:24.66,0:10:27.29,Default,,0,0,0,,But that's your bed, right? I'd feel bad.
 Dialogue: 10,0:10:28.87,0:10:32.50,Default,,0,0,0,,I am cursed, and do not sleep.
-Dialogue: 10,0:10:33.75,0:10:36.30,Default,,0,0,0,,The feeling of pain, the feeling of warmth...
+Dialogue: 10,0:10:33.75,0:10:36.30,Default,,0,0,0,,The feeling of pain, the feeling of warmth... {###}
 Dialogue: 10,0:10:36.88,0:10:39.30,Default,,0,0,0,,I've forgotten many things.
 Dialogue: 10,0:10:43.43,0:10:44.85,Default,,0,0,0,,Thank you, {*}Teacher{*Sensei}!
 Dialogue: 10,0:10:49.64,0:10:50.77,Default,,0,0,0,,{*}Teacher{*Sensei}?
@@ -139,10 +139,10 @@ Dialogue: 10,0:11:31.39,0:11:32.23,Default,,0,0,0,,Okay.
 Dialogue: 10,0:11:32.98,0:11:35.65,Default,,0,0,0,,Then let me walk you to the door!
 Dialogue: 10,0:11:42.53,0:11:43.36,Default,,0,0,0,,Oh!
 Dialogue: 10,0:11:48.08,0:11:49.37,Default,,0,0,0,,I'm sorry.
-Dialogue: 10,0:11:49.62,0:11:51.75,Default,,0,0,0,,N-No, the apology is on me.
-Dialogue: 10,0:11:54.63,0:11:56.46,Default,,0,0,0,,Will you go to bed already?
-Dialogue: 10,0:11:56.79,0:11:58.09,Default,,0,0,0,,Do you need help?
-Dialogue: 10,0:11:58.25,0:12:01.30,Default,,0,0,0,,No, I'll be fine by myself.
+Dialogue: 10,0:11:49.62,0:11:51.75,Default,,0,0,0,,N-No, my apologies.
+Dialogue: 10,0:11:54.63,0:11:56.46,Default,,0,0,0,,Will you be heading to bed already?
+Dialogue: 10,0:11:56.79,0:11:58.09,Default,,0,0,0,,Do you need my help?
+Dialogue: 10,0:11:58.25,0:12:01.30,Default,,0,0,0,,Thanks, but I'll be fine by myself.
 Dialogue: 10,0:12:02.09,0:12:05.26,Default,,0,0,0,,All right. Then I'll see you tomorrow.
 Dialogue: 10,0:12:21.53,0:12:22.78,Default,,0,0,0,,I'll be okay...
 Dialogue: 10,0:12:39.96,0:12:42.84,Default,,0,0,0,,Will I be able to wait until tomorrow?
@@ -154,88 +154,87 @@ Dialogue: 10,0:13:20.46,0:13:21.63,Default,,0,0,0,,If all aren't...
 Dialogue: 10,0:13:35.60,0:13:36.73,Default,,0,0,0,,Shiva?
 Dialogue: 10,0:13:37.73,0:13:38.73,Default,,0,0,0,,Good morning.
 Dialogue: 10,0:13:44.19,0:13:45.32,Default,,0,0,0,,Shiva?
-Dialogue: 10,0:14:00.13,0:14:01.96,Default,,0,0,0,,Maybe she's still sleeping.
-Dialogue: 10,0:14:20.86,0:14:22.44,Default,,0,0,0,,Where did she go?
-Dialogue: 10,0:14:23.23,0:14:24.36,Default,,0,0,0,,Could she have...
-Dialogue: 10,0:14:24.90,0:14:26.07,Default,,0,0,0,,left the house?
-Dialogue: 10,0:14:32.41,0:14:36.16,Default,,0,0,0,,/ see. She must have been frightened.
-Dialogue: 10,0:14:37.00,0:14:38.79,Default,,0,0,0,,Of course she ran away.
-Dialogue: 10,0:14:39.37,0:14:41.79,Default,,0,0,0,,Who wouldn't with this appearance?
-Dialogue: 10,0:14:42.42,0:14:45.05,Default,,0,0,0,,Besides, what would I do saving this child...
-Dialogue: 10,0:14:48.42,0:14:49.26,Default,,0,0,0,,Shiva!I
+Dialogue: 10,0:14:00.13,0:14:01.96,Default,,0,0,0,,{\i1}Maybe she's still sleeping.
+Dialogue: 10,0:14:20.86,0:14:22.44,Default,,0,0,0,,{\i1}Where did she go?
+Dialogue: 10,0:14:23.23,0:14:26.07,Default,,0,0,0,,{\i1}Could she have gone out?
+Dialogue: 10,0:14:32.41,0:14:36.16,Default,,0,0,0,,{\i1}I see. She must have been frightened.
+Dialogue: 10,0:14:37.00,0:14:38.79,Default,,0,0,0,,{\i1}Of course she would run away.
+Dialogue: 10,0:14:39.37,0:14:41.79,Default,,0,0,0,,{\i1}Who wouldn't, when I look like this?
+Dialogue: 10,0:14:42.42,0:14:45.05,Default,,0,0,0,,{\i1}I had little reason to save a child to begin with. {###}
+Dialogue: 10,0:14:48.42,0:14:49.26,Default,,0,0,0,,Shiva!
 Dialogue: 10,0:14:50.89,0:14:52.80,Default,,0,0,0,,Oh, {*}Teacher{*Sensei}!
-Dialogue: 10,0:14:54.51,0:14:56.85,Default,,0,0,0,,Shiva, where have you been?!
-Dialogue: 10,0:14:56.93,0:14:59.02,Default,,0,0,0,,I told you to not leave the house!
-Dialogue: 10,0:15:00.52,0:15:02.11,Default,,0,0,0,,Ta-da! Here!
+Dialogue: 10,0:14:54.51,0:14:56.85,Default,,0,0,0,,Shiva, where have you been?
+Dialogue: 10,0:14:56.93,0:14:59.02,Default,,0,0,0,,I told to stay inside!
+Dialogue: 10,0:15:00.52,0:15:02.11,Default,,0,0,0,,Ta-dah! For you!
 Dialogue: 10,0:15:04.19,0:15:05.02,Default,,0,0,0,,What's this?
-Dialogue: 10,0:15:05.69,0:15:09.15,Default,,0,0,0,,I was making this as a thank you gift for yesterday!
-Dialogue: 10,0:15:09.40,0:15:11.03,Default,,0,0,0,,{*}Teacher{*Sensei}, crouch down!
-Dialogue: 10,0:15:12.20,0:15:15.08,Default,,0,0,0,,Thank you. But it's dangerous to touch me.
-Dialogue: 10,0:15:15.95,0:15:19.21,Default,,0,0,0,,It's okay if I don't touch you, right? Just crouch down.
+Dialogue: 10,0:15:05.69,0:15:09.15,Default,,0,0,0,,I was making a thank-you gift for you for yesterday!
+Dialogue: 10,0:15:09.40,0:15:11.03,Default,,0,0,0,,{*}Teacher{*Sensei}, crouch down.
+Dialogue: 10,0:15:12.20,0:15:15.08,Default,,0,0,0,,Thank you, but it's dangerous for you to touch me.
+Dialogue: 10,0:15:15.95,0:15:19.21,Default,,0,0,0,,It's okay if I don't touch you, right? \NJust crouch down.
 Dialogue: 10,0:15:19.33,0:15:20.29,Default,,0,0,0,,But...
-Dialogue: 10,0:15:28.21,0:15:29.17,Default,,0,0,0,,Stay still!
+Dialogue: 10,0:15:28.21,0:15:29.17,Default,,0,0,0,,Stay still.
 Dialogue: 10,0:15:29.26,0:15:30.09,Default,,0,0,0,,All right.
-Dialogue: 10,0:15:31.55,0:15:32.68,Default,,0,0,0,,Be careful.
-Dialogue: 10,0:15:33.26,0:15:34.39,Default,,0,0,0,,Okay!
-Dialogue: 10,0:15:39.31,0:15:40.48,Default,,0,0,0,,Hmm...
+Dialogue: 10,0:15:31.55,0:15:32.68,Default,,0,0,0,,Be very careful.
+Dialogue: 10,0:15:33.26,0:15:34.39,Default,,0,0,0,,Sure!
 Dialogue: 10,0:15:45.02,0:15:47.02,Default,,0,0,0,,Yup, it looks great on you!
 Dialogue: 10,0:15:47.44,0:15:49.11,Default,,0,0,0,,Thank you, Shiva.
-Dialogue: 10,0:16:04.75,0:16:07.71,Default,,0,0,0,,All right, let's start by cleaning up.
+Dialogue: 10,0:16:04.75,0:16:07.71,Default,,0,0,0,,Let's start by cleaning up the living room.
 Dialogue: 10,0:16:07.80,0:16:08.63,Default,,0,0,0,,Okay!
-Dialogue: 10,0:16:09.05,0:16:14.51,Default,,0,0,0,,I'll pick up the heavy objects, so please clean up the dust and trash.
+Dialogue: 10,0:16:09.05,0:16:14.51,Default,,0,0,0,,I'll pick up the heavy furniture, so please \Ndust everything off and clean up the rubbish. {###}
 Dialogue: 10,0:16:14.59,0:16:15.93,Default,,0,0,0,,All right.
-Dialogue: 10,0:16:22.27,0:16:26.48,Default,,0,0,0,,Shiva, once you're done with that, can you clean this shelf too?
-Dialogue: 10,0:16:26.56,0:16:27.77,Default,,0,0,0,,Okay!
-Dialogue: 10,0:16:39.04,0:16:43.87,Default,,0,0,0,,Shiva, I'll carry these items to my room, so please leave them as they are.
+Dialogue: 10,0:16:22.27,0:16:26.48,Default,,0,0,0,,Shiva, once you're done, \Ncould you clean this shelf, too?
+Dialogue: 10,0:16:26.56,0:16:27.77,Default,,0,0,0,,Sure!
+Dialogue: 10,0:16:39.04,0:16:43.87,Default,,0,0,0,,Shiva, I'll carry these items to my room, \Nso please leave them as they are.
 Dialogue: 10,0:16:43.96,0:16:46.00,Default,,0,0,0,,Do you want me to help you?
-Dialogue: 10,0:16:46.08,0:16:48.46,Default,,0,0,0,,Thank you, but I'll be fine.
-Dialogue: 10,0:16:48.63,0:16:50.21,Default,,0,0,0,,Oh, this too.
-Dialogue: 10,0:16:50.30,0:16:53.84,Default,,0,0,0,,They might get mixed up, so I'll carry them on my own...
-Dialogue: 10,0:16:55.76,0:16:59.93,Default,,0,0,0,,...80 I thought it was a giant strawberry!
-Dialogue: 10,0:17:01.35,0:17:03.14,Default,,0,0,0,,That must've been very big.
-Dialogue: 10,0:17:03.56,0:17:06.98,Default,,0,0,0,,Good, we'll just wrap the bandages and we're done.
+Dialogue: 10,0:16:46.08,0:16:48.46,Default,,0,0,0,,Thank you kindly, but I'll be fine.
+Dialogue: 10,0:16:48.63,0:16:50.21,Default,,0,0,0,,Oh, these as well.
+Dialogue: 10,0:16:50.30,0:16:53.84,Default,,0,0,0,,They may get mixed up, \Nso I'll carry them my—
+Dialogue: 10,0:16:55.76,0:16:59.93,Default,,0,0,0,,...and I thought it was a giant strawberry!
+Dialogue: 10,0:17:01.35,0:17:03.14,Default,,0,0,0,,It must've been particularly large.
+Dialogue: 10,0:17:03.56,0:17:06.98,Default,,0,0,0,,Good. Now wrap it up and we're done.
 Dialogue: 10,0:17:07.06,0:17:09.86,Default,,0,0,0,,Okay! Thank you, {*}Teacher{*Sensei}!
 Dialogue: 10,0:17:13.11,0:17:13.95,Default,,0,0,0,,All right!
 Dialogue: 10,0:17:14.15,0:17:14.99,Default,,0,0,0,,Oh.
+Dialogue: 10,0:17:14.15,0:17:14.99,Alt,,0,0,0,,Oh.
 Dialogue: 10,0:17:15.07,0:17:16.11,Default,,0,0,0,,Thank you.
-Dialogue: 10,0:17:18.32,0:17:21.66,Default,,0,0,0,,Say, {*}Teacher{*Sensei}, there's something I want to eat!
-Dialogue: 10,0:17:21.74,0:17:25.87,Default,,0,0,0,,It's really fluffy and sweet, and there's lots of sugar...
-Dialogue: 10,0:17:30.50,0:17:33.67,Default,,0,0,0,,I apologize. It was rather difficult.
-Dialogue: 10,0:17:34.51,0:17:36.34,Default,,0,0,0,,No, I'm sorry.
-Dialogue: 10,0:17:36.43,0:17:41.01,Default,,0,0,0,,I've just never seen a pancake that was this black, so...
+Dialogue: 10,0:17:18.32,0:17:21.66,Default,,0,0,0,,{*}Teacher{*Sensei}, there's some food I wanna try!
+Dialogue: 10,0:17:21.74,0:17:27.11,Default,,0,0,0,,{\t(2386,4680,\c&H000000&)}It's really fluffy and sweet, \Nand it has lots of sugar...
+Dialogue: 10,0:17:30.50,0:17:33.67,Default,,0,0,0,,My apologies. It proved quite a feat.
+Dialogue: 10,0:17:34.51,0:17:36.34,Default,,0,0,0,,Oh no, I'm sorry.
+Dialogue: 10,0:17:36.43,0:17:41.01,Default,,0,0,0,,I've just never seen a pancake that was {\i1}this{\i0} burned!
 Dialogue: 10,0:17:43.22,0:17:45.60,Default,,0,0,0,,Please eat only what looks edible.
 Dialogue: 10,0:17:45.69,0:17:48.23,Default,,0,0,0,,I'm sure the burnt parts are tasty too.
-Dialogue: 10,0:17:48.31,0:17:50.90,Default,,0,0,0,,The burnt parts aren't good for your body.
+Dialogue: 10,0:17:48.31,0:17:50.90,Default,,0,0,0,,They aren't good for you.
 Dialogue: 10,0:17:50.98,0:17:52.90,Default,,0,0,0,,Then I'll just eat a little.
 Dialogue: 10,0:17:53.90,0:17:55.78,Default,,0,0,0,,Is that a new curtain?
-Dialogue: 10,0:17:55.86,0:17:59.53,Default,,0,0,0,,Yes, since I found another one with the perfect size.
+Dialogue: 10,0:17:55.86,0:17:59.53,Default,,0,0,0,,Yes. I found one that fits the frame just right.
 Dialogue: 10,0:18:00.32,0:18:02.91,Default,,0,0,0,,All right, this should be good.
 Dialogue: 10,0:18:16.05,0:18:17.97,Default,,0,0,0,,Shiva, it's ready!
 Dialogue: 10,0:18:18.34,0:18:19.51,Default,,0,0,0,,Coming!
 Dialogue: 10,0:18:29.10,0:18:32.02,Default,,0,0,0,,I'll be fine! I've had it many times before!
-Dialogue: 10,0:18:32.69,0:18:35.48,Default,,0,0,0,,But with some sugar in it, right?
+Dialogue: 10,0:18:32.69,0:18:35.48,Default,,0,0,0,,But with sugar, correct?
 Dialogue: 10,0:18:35.74,0:18:38.86,Default,,0,0,0,,Yeah, but I feel like I can drink it today!
 Dialogue: 10,0:18:39.36,0:18:41.03,Default,,0,0,0,,Careful not to burn yourself.
-Dialogue: 10,0:18:41.12,0:18:41.95,Default,,0,0,0,,Yeah!
+Dialogue: 10,0:18:41.12,0:18:41.95,Default,,0,0,0,,Okay!
 Dialogue: 10,0:18:48.58,0:18:49.50,Default,,0,0,0,,Are you okay?
-Dialogue: 10,0:18:50.04,0:18:51.46,Default,,0,0,0,,It's bitter.
+Dialogue: 10,0:18:50.04,0:18:51.46,Default,,0,0,0,,It's too bitter.
 Dialogue: 10,0:18:56.88,0:18:59.43,Default,,0,0,0,,{*}Teacher{*Sensei}, did you find the sugar?
 Dialogue: 10,0:19:00.05,0:19:03.14,Default,,0,0,0,,No, but I think there's some here.
 Dialogue: 10,0:19:05.10,0:19:06.02,Default,,0,0,0,,{*}Teacher{*Sensei}!
-Dialogue: 10,0:19:07.27,0:19:09.19,Default,,0,0,0,,There's lots of books here!
+Dialogue: 10,0:19:07.27,0:19:09.19,Default,,0,0,0,,There's a lotta books here!
 Dialogue: 10,0:19:10.23,0:19:12.02,Default,,0,0,0,,That's very nice.
 Dialogue: 10,0:19:12.52,0:19:15.15,Default,,0,0,0,,See if you can find anything you like.
 Dialogue: 10,0:19:15.40,0:19:16.65,Default,,0,0,0,,Okay!
-Dialogue: 10,0:19:16.73,0:19:18.03,Default,,0,0,0,,I found the sugar too.
-Dialogue: 10,0:19:18.11,0:19:20.03,Default,,0,0,0,,What? Really?!
+Dialogue: 10,0:19:16.73,0:19:18.03,Default,,0,0,0,,I found the sugar.
+Dialogue: 10,0:19:18.11,0:19:20.03,Default,,0,0,0,,Huh? Really?!
 Dialogue: 10,0:19:20.11,0:19:22.16,Default,,0,0,0,,Wait, I'll be right there!
 Dialogue: 10,0:19:28.20,0:19:29.04,Default,,0,0,0,,See?
-Dialogue: 10,0:19:33.75,0:19:35.54,Default,,0,0,0,,Can I eat one?
+Dialogue: 10,0:19:33.75,0:19:35.54,Default,,0,0,0,,Can I have one?
 Dialogue: 10,0:19:36.17,0:19:37.05,Default,,0,0,0,,Sure.
-Dialogue: 10,0:19:42.68,0:19:44.85,Default,,0,0,0,,So sweet!
-Dialogue: 10,0:19:47.56,0:19:50.89,Default,,0,0,0,,Say, {*}Teacher{*Sensei}, let's play hide-and-seek!
+Dialogue: 10,0:19:42.68,0:19:44.85,Default,,0,0,0,,Sweet!
+Dialogue: 10,0:19:47.56,0:19:50.89,Default,,0,0,0,,{*}Teacher{*Sensei}, let's play hide-and-seek!
 Dialogue: 10,0:19:51.02,0:19:52.10,Default,,0,0,0,,Hide-and-seek?
-Dialogue: 10,0:19:52.40,0:19:53.35,Default,,0,0,0,,Right!
+Dialogue: 10,0:19:52.40,0:19:53.35,Default,,0,0,0,,Yeah!
 Dialogue: 10,0:19:53.73,0:19:55.94,Default,,0,0,0,,Do I just count to ten?
 Dialogue: 10,0:19:57.65,0:19:59.11,Default,,0,0,0,,Wait one second.
 Dialogue: 10,0:19:59.19,0:20:00.78,Default,,0,0,0,,Umm...
@@ -256,170 +255,167 @@ Dialogue: 10,0:20:28.47,0:20:29.93,Default,,0,0,0,,Eleven.
 Dialogue: 10,0:20:30.43,0:20:31.73,Default,,0,0,0,,Twelve.
 Dialogue: 10,0:20:32.35,0:20:33.60,Default,,0,0,0,,Thirteen.
 Dialogue: 10,0:20:34.15,0:20:35.52,Default,,0,0,0,,Fourteen.
-Dialogue: 10,0:20:36.40,0:20:37.23,Default,,0,0,0,,Hm?
-Dialogue: 10,0:20:39.65,0:20:40.65,Default,,0,0,0,,Could that be?
+Dialogue: 10,0:20:36.40,0:20:37.23,Default,,0,0,0,,Hmm?
+Dialogue: 10,0:20:39.65,0:20:40.65,Default,,0,0,0,,Could that be...
 Dialogue: 10,0:20:43.28,0:20:44.86,Default,,0,0,0,,In a place like this?
-Dialogue: 10,0:20:48.37,0:20:49.49,Default,,0,0,0,,Now ls my chance...
-Dialogue: 10,0:20:58.50,0:21:01.13,Default,,0,0,0,,ll wonder where {*}Teacher{*Sensei} is?
+Dialogue: 10,0:20:48.37,0:20:49.49,Default,,0,0,0,,Now is my chance...
+Dialogue: 10,0:20:58.50,0:21:01.13,Default,,0,0,0,,{\i1}l wonder where {*}Teacher{*Sensei} is.
 Dialogue: 10,0:21:07.09,0:21:07.93,Default,,0,0,0,,Huh?
-Dialogue: 10,0:21:09.31,0:21:12.39,Default,,0,0,0,,Hello! Are you playing hide-and-seek too?
+Dialogue: 10,0:21:09.31,0:21:12.39,Default,,0,0,0,,Hello! Are you playing hide-and-seek, too?
 Dialogue: 10,0:21:13.89,0:21:15.35,Default,,0,0,0,,Oh, wait!
 Dialogue: 10,0:21:16.90,0:21:17.94,Default,,0,0,0,,Aww...
 Dialogue: 10,0:21:31.74,0:21:33.50,Default,,0,0,0,,What are you doing here?
 Dialogue: 10,0:21:34.29,0:21:36.50,Default,,0,0,0,,You're not going to take it back?
-Dialogue: 10,0:21:37.08,0:21:38.25,Default,,0,0,0,,What is that about?
+Dialogue: 10,0:21:37.08,0:21:38.25,Default,,0,0,0,,Take what back?
 Dialogue: 10,0:21:38.92,0:21:43.21,Default,,0,0,0,,Are you going to keep that soul all to yourself?
 Dialogue: 10,0:21:43.76,0:21:44.88,Default,,0,0,0,,Soul?
-Dialogue: 10,0:21:45.76,0:21:47.01,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:21:47.43,0:21:53.10,Default,,0,0,0,,You need to hurry and return that soul to Mother while its still pure.
+Dialogue: 10,0:21:45.76,0:21:47.01,Default,,0,0,0,,Please elaborate.
+Dialogue: 10,0:21:47.43,0:21:53.10,Default,,0,0,0,,You must hurry and return that soul \Nto Mother while its still pure.
 Dialogue: 10,0:21:53.39,0:21:54.60,Default,,0,0,0,,Mother?
 Dialogue: 10,0:21:55.23,0:21:57.65,Default,,0,0,0,,What are you talking about?
-Dialogue: 10,0:21:57.73,0:22:00.61,Default,,0,0,0,,About that soul you are with.
+Dialogue: 10,0:21:57.73,0:22:00.61,Default,,0,0,0,,This is about the soul that's with you.
 Dialogue: 10,0:22:00.69,0:22:02.78,Default,,0,0,0,,What are you trying to do to Shiva?!
-Dialogue: 10,0:22:03.19,0:22:04.61,Default,,0,0,0,,Shiva...
-Dialogue: 10,0:22:04.86,0:22:08.20,Default,,0,0,0,,So you give names to souls.
-Dialogue: 10,0:22:08.86,0:22:09.99,Default,,0,0,0,,Say what?
+Dialogue: 10,0:22:03.19,0:22:04.61,Default,,0,0,0,,Shiva?
+Dialogue: 10,0:22:04.86,0:22:08.20,Default,,0,0,0,,So you name your souls?
+Dialogue: 10,0:22:08.86,0:22:09.99,Default,,0,0,0,,What do you mean?
 Dialogue: 10,0:22:10.41,0:22:12.70,Default,,0,0,0,,You don't know?
-Dialogue: 10,0:22:12.79,0:22:14.91,Default,,0,0,0,,We all know.
-Dialogue: 10,0:22:15.75,0:22:17.33,Default,,0,0,0,,What are you talking about?
-Dialogue: 10,0:22:17.41,0:22:20.21,Default,,0,0,0,,What you all call the curse.
+Dialogue: 10,0:22:12.79,0:22:14.91,Default,,0,0,0,,All of us do.
+Dialogue: 10,0:22:15.75,0:22:17.33,Default,,0,0,0,,Explain yourself.
+Dialogue: 10,0:22:17.41,0:22:20.21,Default,,0,0,0,,That thing you call the curse...
 Dialogue: 10,0:22:20.75,0:22:21.71,Default,,0,0,0,,Don't tell me...
-Dialogue: 10,0:22:22.75,0:22:25.13,Default,,0,0,0,,you know how to break the curse?
-Dialogue: 10,0:22:25.88,0:22:27.55,Default,,0,0,0,,How to break the curse?
-Dialogue: 10,0:22:27.88,0:22:31.14,Default,,0,0,0,,You really don't know anything, do you?
-Dialogue: 10,0:22:31.30,0:22:35.85,Default,,0,0,0,,Of course! I'm not the same as all of you that spread the curse around!
+Dialogue: 10,0:22:22.75,0:22:25.13,Default,,0,0,0,,You know how to break the curse?
+Dialogue: 10,0:22:25.88,0:22:27.55,Default,,0,0,0,,Break the curse?
+Dialogue: 10,0:22:27.88,0:22:31.14,Default,,0,0,0,,You truly are out of touch, aren't you?
+Dialogue: 10,0:22:31.30,0:22:35.85,Default,,0,0,0,,Of course I am! I refuse to \Nspread the curse unlike you people!
 Dialogue: 10,0:22:36.81,0:22:38.81,Default,,0,0,0,,Whose child are you?
 Dialogue: 10,0:22:39.40,0:22:40.65,Default,,0,0,0,,"Whose child"?
-Dialogue: 10,0:22:41.11,0:22:42.73,Default,,0,0,0,,lam human!
+Dialogue: 10,0:22:41.11,0:22:42.73,Default,,0,0,0,,l am human!
 Dialogue: 10,0:22:42.90,0:22:46.28,Default,,0,0,0,,Then tell me your name.
 Dialogue: 10,0:22:47.65,0:22:48.82,Default,,0,0,0,,What?
-Dialogue: 10,0:22:49.41,0:22:52.58,Default,,0,0,0,,All humans have one, don't they?
-Dialogue: 10,0:22:56.87,0:22:57.79,Default,,0,0,0,,lam...
+Dialogue: 10,0:22:49.41,0:22:52.58,Default,,0,0,0,,All humans have a name, do they not?
+Dialogue: 10,0:22:56.87,0:22:57.79,Default,,0,0,0,,l am...
 Dialogue: 10,0:22:57.87,0:23:00.83,Default,,0,0,0,,Are you really from the Inside?
-Dialogue: 10,0:23:01.29,0:23:05.09,Default,,0,0,0,,You're not the same as us, a dark child?
+Dialogue: 10,0:23:01.29,0:23:05.09,Default,,0,0,0,,You're not one of us, a dark child?
 Dialogue: 10,0:23:05.17,0:23:07.21,Default,,0,0,0,,Silence! Leave this place at once!
 Dialogue: 10,0:23:09.30,0:23:12.39,Default,,0,0,0,,Which are you?
-Dialogue: 10,0:23:23.31,0:23:24.48,Default,,0,0,0,,lam...
+Dialogue: 10,0:23:23.31,0:23:24.48,Default,,0,0,0,,l am...
 Dialogue: 10,0:23:43.83,0:23:44.92,Default,,0,0,0,,Shiva?
-Dialogue: 10,0:23:46.00,0:23:46.84,Default,,0,0,0,,Hm?
 Dialogue: 10,0:23:51.05,0:23:52.64,Default,,0,0,0,,You found me.
-Dialogue: 10,0:23:53.43,0:23:55.18,Default,,0,0,0,,I apologize for being late.
-Dialogue: 10,0:23:56.56,0:23:58.97,Default,,0,0,0,,Does that mean I was good at hiding?
-Dialogue: 10,0:23:59.39,0:24:00.73,Default,,0,0,0,,Seems so.
+Dialogue: 10,0:23:53.43,0:23:55.18,Default,,0,0,0,,I apologise for taking my time.
+Dialogue: 10,0:23:56.56,0:23:58.97,Default,,0,0,0,,Was I that good at hiding?
+Dialogue: 10,0:23:59.39,0:24:00.73,Default,,0,0,0,,It would appear so.
 Dialogue: 10,0:24:01.73,0:24:03.23,Default,,0,0,0,,Did you find your book?
 Dialogue: 10,0:24:03.31,0:24:05.56,Default,,0,0,0,,No, not yet.
 Dialogue: 10,0:24:09.03,0:24:10.53,Default,,0,0,0,,How about this one?
-Dialogue: 10,0:24:10.65,0:24:11.49,Default,,0,0,0,,Hmm?
-Dialogue: 10,0:24:14.45,0:24:15.87,Default,,0,0,0,,I'll choose this one!
-Dialogue: 10,0:24:27.21,0:24:29.30,Default,,0,0,0,,/ must at least protect her...
-Dialogue: 10,0:24:30.80,0:24:33.05,Default,,0,0,0,,so that she doesn't get cursed.
-Dialogue: 10,0:24:35.34,0:24:37.47,Default,,0,0,0,,{\i1}As long as she isn't cursed...{\i0}
-Dialogue: 10,0:24:38.89,0:24:40.60,Default,,0,0,0,,I'm sure that one day...
-Dialogue: 10,0:24:43.69,0:24:46.06,Default,,0,0,0,,"The god who was punished...
-Dialogue: 10,0:24:46.77,0:24:48.77,Default,,0,0,0,,had everything taken away...
-Dialogue: 10,0:24:50.82,0:24:54.20,Default,,0,0,0,,and was turned into a hideous creature."
+Dialogue: 10,0:24:14.45,0:24:15.87,Default,,0,0,0,,I choose this one!
+Dialogue: 10,0:24:27.21,0:24:29.30,Default,,0,0,0,,{\i1}I must at least protect her...
+Dialogue: 10,0:24:30.80,0:24:33.05,Default,,0,0,0,,{\i1}I will not allow her to be cursed.
+Dialogue: 10,0:24:35.34,0:24:37.47,Default,,0,0,0,,{\i1}So long as we can avoid that,
+Dialogue: 10,0:24:38.89,0:24:40.60,Default,,0,0,0,,{\i1}I'm sure that one day...
+Dialogue: 10,0:24:43.69,0:24:46.06,Default,,0,0,0,,"The god who was punished"
+Dialogue: 10,0:24:46.77,0:24:48.77,Default,,0,0,0,,"had everything taken away"
+Dialogue: 10,0:24:50.82,0:24:54.20,Default,,0,0,0,,"and was turned into a hideous creature."
 Dialogue: 10,0:24:55.99,0:24:58.28,Default,,0,0,0,,Shall we continue the rest next time?
 Dialogue: 10,0:24:58.87,0:24:59.83,Default,,0,0,0,,Shiva?
 Dialogue: 10,0:25:01.37,0:25:02.37,Default,,0,0,0,,Yeah...
 Dialogue: 10,0:25:08.84,0:25:09.67,Default,,0,0,0,,Is it this?
 Dialogue: 10,0:25:09.75,0:25:10.63,Default,,0,0,0,,Oh.
-Dialogue: 10,0:25:14.47,0:25:17.76,Default,,0,0,0,,No! This is precious to you, isn't it?
+Dialogue: 10,0:25:14.47,0:25:17.76,Default,,0,0,0,,No! It matters a lot to you, right?
 Dialogue: 10,0:25:18.39,0:25:19.39,Default,,0,0,0,,It's all right.
 Dialogue: 10,0:25:24.98,0:25:26.60,Default,,0,0,0,,Can I open it?
 Dialogue: 10,0:25:27.06,0:25:28.90,Default,,0,0,0,,Sure, go ahead.
 Dialogue: 10,0:25:33.44,0:25:34.57,Default,,0,0,0,,Um...
 Dialogue: 10,0:25:36.41,0:25:39.37,Default,,0,0,0,,Are these your friends?
 Dialogue: 10,0:25:41.29,0:25:42.41,Default,,0,0,0,,My family.
-Dialogue: 10,0:25:45.12,0:25:48.67,Default,,0,0,0,,I used to be human.
+Dialogue: 10,0:25:45.12,0:25:48.67,Default,,0,0,0,,I was once human.
 Dialogue: 10,0:25:52.84,0:25:56.88,Default,,0,0,0,,{*}Teacher{*Sensei}, how did you become an Outsider?
 Dialogue: 10,0:25:57.18,0:25:59.51,Default,,0,0,0,,Why isn't everyone else with you?
 Dialogue: 10,0:26:02.22,0:26:03.85,Default,,0,0,0,,You don't want to tell me?
-Dialogue: 10,0:26:05.27,0:26:06.10,Default,,0,0,0,,No...
-Dialogue: 10,0:26:06.64,0:26:07.94,Default,,0,0,0,,I just don't know.
-Dialogue: 10,0:26:09.02,0:26:13.28,Default,,0,0,0,,I was a human, who lived in the Inside,
-Dialogue: 10,0:26:13.82,0:26:15.53,Default,,0,0,0,,and I had a wife and child.
+Dialogue: 10,0:26:05.27,0:26:06.10,Default,,0,0,0,,No,
+Dialogue: 10,0:26:06.64,0:26:07.94,Default,,0,0,0,,I simply don't know.
+Dialogue: 10,0:26:09.02,0:26:13.28,Default,,0,0,0,,I was a human who lived in the Inside,
+Dialogue: 10,0:26:13.82,0:26:15.53,Default,,0,0,0,,and I had a wife and kid.
 Dialogue: 10,0:26:16.90,0:26:19.53,Default,,0,0,0,,I should have been living an ordinary life.
-Dialogue: 10,0:26:20.91,0:26:25.50,Default,,0,0,0,,But I cannot remember my voice or appearance.
-Dialogue: 10,0:26:25.58,0:26:29.12,Default,,0,0,0,,Not even my name or my face...
-Dialogue: 10,0:26:30.38,0:26:35.96,Default,,0,0,0,,I'm not even sure... if anything is real or not.
-Dialogue: 10,0:26:37.09,0:26:38.38,Default,,0,0,0,,I see...
-Dialogue: 10,0:26:42.68,0:26:47.43,Default,,0,0,0,,I've wanted to stay connected with those, so I've been holding onto it,
-Dialogue: 10,0:26:48.06,0:26:51.65,Default,,0,0,0,,but maybe I no longer need it.
+Dialogue: 10,0:26:20.91,0:26:25.50,Default,,0,0,0,,But I remember neither my voice nor appearance.
+Dialogue: 10,0:26:25.58,0:26:29.12,Default,,0,0,0,,Or even my name or face.
+Dialogue: 10,0:26:30.38,0:26:35.96,Default,,0,0,0,,I can't even tell for sure whether it was all real.
+Dialogue: 10,0:26:37.09,0:26:38.38,Default,,0,0,0,,I see.
+Dialogue: 10,0:26:42.68,0:26:47.43,Default,,0,0,0,,I wanted to keep any connection I had, \Nso I've kept it with me all this time.
+Dialogue: 10,0:26:48.06,0:26:51.65,Default,,0,0,0,,But maybe I don't need it anymore.
 Dialogue: 10,0:26:51.73,0:26:53.19,Default,,0,0,0,,That's not true!
 Dialogue: 10,0:26:54.40,0:26:56.49,Default,,0,0,0,,It's okay if you can't remember.
-Dialogue: 10,0:26:57.69,0:26:59.95,Default,,0,0,0,,Even if things have changed...
+Dialogue: 10,0:26:57.69,0:26:59.95,Default,,0,0,0,,Even if things have changed,
 Dialogue: 10,0:27:00.53,0:27:02.83,Default,,0,0,0,,please stay beside them, {*}Teacher{*Sensei}.
-Dialogue: 10,0:27:03.37,0:27:07.20,Default,,0,0,0,,I think that's more important than remembering.
-Dialogue: 10,0:27:17.71,0:27:19.72,Default,,0,0,0,,Will I be able to though?
-Dialogue: 10,0:27:20.72,0:27:21.93,Default,,0,0,0,,Why?
+Dialogue: 10,0:27:03.37,0:27:07.20,Default,,0,0,0,,I think that matters more than remembering.
+Dialogue: 10,0:27:17.71,0:27:19.72,Default,,0,0,0,,Will I be able to, though?
+Dialogue: 10,0:27:20.72,0:27:21.93,Default,,0,0,0,,Why do you ask?
 Dialogue: 10,0:27:22.76,0:27:23.93,Default,,0,0,0,,Because...
 Dialogue: 10,0:27:26.27,0:27:28.18,Default,,0,0,0,,I've been cursed.
 Dialogue: 10,0:27:37.03,0:27:38.65,Default,,0,0,0,,Um, I...
+Dialogue: 10,0:27:37.03,0:27:38.65,Alt,,0,0,0,,Just when you...
 Dialogue: 10,0:27:38.74,0:27:39.57,Default,,0,0,0,,Oh.
-Dialogue: 10,0:27:39.65,0:27:40.49,Default,,0,0,0,,Hm?
 Dialogue: 10,0:27:40.90,0:27:43.03,Default,,0,0,0,,I'm sorry. What were you saying?
 Dialogue: 10,0:27:44.62,0:27:45.66,Default,,0,0,0,,Never mind.
-Dialogue: 10,0:27:46.74,0:27:48.29,Default,,0,0,0,,It's nothing.
+Dialogue: 10,0:27:46.74,0:27:48.29,Default,,0,0,0,,Nothing.
 Dialogue: 10,0:27:50.50,0:27:51.67,Default,,0,0,0,,I see.
 Dialogue: 10,0:27:52.12,0:27:54.38,Default,,0,0,0,,I've talked a little too much.
-Dialogue: 10,0:27:56.09,0:27:58.76,Default,,0,0,0,,We walked lots today, so you must be tired.
+Dialogue: 10,0:27:56.09,0:27:58.76,Default,,0,0,0,,We've been on our feet all day, \Nso you must be tired.
 Dialogue: 10,0:28:01.13,0:28:02.51,Default,,0,0,0,,Sleep well.
-Dialogue: 10,0:28:03.01,0:28:06.01,Default,,0,0,0,,Okay. Good night, {*}Teacher{*Sensei}.
+Dialogue: 10,0:28:03.01,0:28:06.01,Default,,0,0,0,,Thank you. Good night, {*}Teacher{*Sensei}.
 Dialogue: 10,0:28:06.31,0:28:07.35,Default,,0,0,0,,Good night.
 Dialogue: 10,0:29:21.84,0:29:22.84,Default,,0,0,0,,Stop...
 Dialogue: 10,0:29:23.26,0:29:24.42,Default,,0,0,0,,No!
-Dialogue: 10,0:29:30.18,0:29:32.56,Default,,0,0,0,,Why? No...
+Dialogue: 10,0:29:30.18,0:29:32.56,Default,,0,0,0,,Why? Please, no...
 Dialogue: 10,0:29:33.02,0:29:35.19,Default,,0,0,0,,Somebody, please...
 Dialogue: 10,0:29:35.69,0:29:36.60,Default,,0,0,0,,Please come...
 Dialogue: 10,0:29:37.65,0:29:38.77,Default,,0,0,0,,Somebody...
 Dialogue: 10,0:30:18.35,0:30:19.40,Default,,0,0,0,,Thank you!
-Dialogue: 10,0:30:22.94,0:30:26.40,Default,,0,0,0,,Today's pancake is nicely baked and tasty!
-Dialogue: 10,0:30:26.95,0:30:29.03,Default,,0,0,0,,I see, I'm glad you like it.
-Dialogue: 10,0:30:29.49,0:30:31.49,Default,,0,0,0,,{*}Teacher{*Sensei}, will you pass the sugar?
+Dialogue: 10,0:30:22.94,0:30:26.40,Default,,0,0,0,,The pancake is nicely baked and tasty today!
+Dialogue: 10,0:30:26.95,0:30:29.03,Default,,0,0,0,,Is it? I'm glad you like it.
+Dialogue: 10,0:30:29.49,0:30:31.49,Default,,0,0,0,,{*}Teacher{*Sensei}, could you pass the sugar?
 Dialogue: 10,0:30:31.58,0:30:32.41,Default,,0,0,0,,Sure.
 Dialogue: 10,0:30:40.54,0:30:41.59,Default,,0,0,0,,{*}Teacher{*Sensei}?
 Dialogue: 10,0:30:42.04,0:30:43.13,Default,,0,0,0,,{*}Teacher{*Sensei}?
-Dialogue: 10,0:30:43.25,0:30:44.46,Default,,0,0,0,,{*}Teacher{*Sensei}?!
+Dialogue: 10,0:30:43.25,0:30:44.46,Default,,0,0,0,,{*}Teacher{*Sensei}!
 Dialogue: 10,0:30:46.13,0:30:47.42,Default,,0,0,0,,The sugar...
-Dialogue: 10,0:30:47.92,0:30:49.93,Default,,0,0,0,,Oh, I'm sorry.
+Dialogue: 10,0:30:47.92,0:30:49.93,Default,,0,0,0,,Oh, my apologies.
 Dialogue: 10,0:30:51.47,0:30:52.55,Default,,0,0,0,,Thank you.
-Dialogue: 10,0:30:58.27,0:31:02.11,Default,,0,0,0,,Shiva... would you like to go somewhere far?
-Dialogue: 10,0:31:04.78,0:31:07.11,Default,,0,0,0,,Somewhere far? Where?
-Dialogue: 10,0:31:07.99,0:31:11.95,Default,,0,0,0,,Well, I don't have a specific place in mind, but...
+Dialogue: 10,0:30:58.27,0:31:02.11,Default,,0,0,0,,Shiva, would you like to go somewhere far away?
+Dialogue: 10,0:31:04.78,0:31:07.11,Default,,0,0,0,,Somewhere far away? Where?
+Dialogue: 10,0:31:07.99,0:31:11.95,Default,,0,0,0,,Well, I don't have a destination in mind, but...
 Dialogue: 10,0:31:15.04,0:31:17.41,Default,,0,0,0,,Okay! That sounds really fun!
-Dialogue: 10,0:31:22.00,0:31:24.63,Default,,0,0,0,,Let's go after I eat this! I'll be done soon!
+Dialogue: 10,0:31:22.00,0:31:24.63,Default,,0,0,0,,Let's go after I eat this! I'm almost done!
 Dialogue: 10,0:31:25.92,0:31:29.63,Default,,0,0,0,,No, it may take a couple of days,
-Dialogue: 10,0:31:29.97,0:31:33.64,Default,,0,0,0,,so let's fully prepare and set out tomorrow morning.
-Dialogue: 10,0:31:34.72,0:31:38.14,Default,,0,0,0,,Shiva, will you pack up everything you need as well?
-Dialogue: 10,0:31:39.23,0:31:40.48,Default,,0,0,0,,All right!
-Dialogue: 10,0:31:47.73,0:31:49.53,Default,,0,0,0,,I think it's around here.
-Dialogue: 10,0:31:52.41,0:31:53.24,Default,,0,0,0,,Yes.
-Dialogue: 10,0:32:02.50,0:32:03.79,Default,,0,0,0,,{*}Teacher{*Sensei}.
-Dialogue: 10,0:32:04.38,0:32:05.46,Default,,0,0,0,,Shiva.
-Dialogue: 10,0:32:06.88,0:32:08.05,Default,,0,0,0,,What's the matter?
-Dialogue: 10,0:32:08.88,0:32:10.30,Default,,0,0,0,,You can't sleep?
+Dialogue: 10,0:31:29.97,0:31:33.64,Default,,0,0,0,,so let's make sure we're well prepared \Nand head out tomorrow morning.
+Dialogue: 10,0:31:34.72,0:31:38.14,Default,,0,0,0,,Could you pack up everything you need?
+Dialogue: 10,0:31:39.23,0:31:40.48,Default,,0,0,0,,Okay!
+Dialogue: 10,0:31:47.73,0:31:49.53,Default,,0,0,0,,I believe it's around here.
+Dialogue: 10,0:31:52.41,0:31:53.24,Default,,0,0,0,,Okay.
+Dialogue: 10,0:32:02.50,0:32:03.79,Default,,0,0,0,,{*}Teacher{*Sensei}?
+Dialogue: 10,0:32:04.38,0:32:05.46,Default,,0,0,0,,Shiva?
+Dialogue: 10,0:32:06.88,0:32:08.05,Default,,0,0,0,,Is something wrong?
+Dialogue: 10,0:32:08.88,0:32:10.30,Default,,0,0,0,,Can't sleep?
 Dialogue: 10,0:32:10.72,0:32:12.01,Default,,0,0,0,,Umm...
-Dialogue: 10,0:32:13.47,0:32:15.14,Default,,0,0,0,,Um, {*}Teacher{*Sensei}.
+Dialogue: 10,0:32:13.47,0:32:15.14,Default,,0,0,0,,Um, {*}Teacher{*Sensei}?
 Dialogue: 10,0:32:15.68,0:32:16.51,Default,,0,0,0,,Hm?
 Dialogue: 10,0:32:19.72,0:32:20.85,Default,,0,0,0,,Um...
-Dialogue: 10,0:32:21.73,0:32:22.56,Default,,0,0,0,,I'm
+Dialogue: 10,0:32:21.73,0:32:22.56,Default,,0,0,0,,I'm...
 Dialogue: 10,0:32:31.70,0:32:32.70,Default,,0,0,0,,Ugh...
-Dialogue: 10,0:32:32.86,0:32:34.20,Default,,0,0,0,,Jeez!
-Dialogue: 10,0:32:36.24,0:32:39.91,Default,,0,0,0,,We'd need to clean this up before we can set out.
-Dialogue: 10,0:32:42.75,0:32:45.25,Default,,0,0,0,,Shiva, sorry for the trouble.
-Dialogue: 10,0:32:45.67,0:32:47.79,Default,,0,0,0,,Thank you for helping me.
+Dialogue: 10,0:32:32.86,0:32:34.20,Default,,0,0,0,,Geez!
+Dialogue: 10,0:32:36.24,0:32:39.91,Default,,0,0,0,,We'll have to clean this up before we go!
+Dialogue: 10,0:32:42.75,0:32:45.25,Default,,0,0,0,,Sorry for the trouble.
+Dialogue: 10,0:32:45.67,0:32:47.79,Default,,0,0,0,,I appreciate your help.
 Dialogue: 10,0:32:48.09,0:32:49.71,Default,,0,0,0,,You're welcome.
-Dialogue: 10,0:32:50.76,0:32:53.26,Default,,0,0,0,,Good night then, {*}Teacher{*Sensei}.
-Dialogue: 10,0:32:53.55,0:32:56.47,Default,,0,0,0,,Yes, good night, Shiva.
-Dialogue: 10,0:33:04.44,0:33:06.19,Default,,0,0,0,,If there's a small village...
-Dialogue: 10,0:33:07.73,0:33:09.69,Default,,0,0,0,,where humans live...
-Dialogue: 10,0:33:14.61,0:33:15.78,Default,,0,0,0,,I'm sure...
-Dialogue: 10,0:33:16.70,0:33:21.08,Default,,0,0,0,,that's... what's best for her...
+Dialogue: 10,0:32:50.76,0:32:53.26,Default,,0,0,0,,Good night, {*}Teacher{*Sensei}.
+Dialogue: 10,0:32:53.55,0:32:56.47,Default,,0,0,0,,Good night, Shiva.
+Dialogue: 10,0:33:04.44,0:33:06.19,Default,,0,0,0,,{\i1}If we can find a small village
+Dialogue: 10,0:33:07.73,0:33:09.69,Default,,0,0,0,,{\i1}where humans are settled...
+Dialogue: 10,0:33:14.61,0:33:21.08,Default,,0,0,0,,{\i1}I'm sure that would be best for her.
 Dialogue: 10,0:33:44.06,0:33:44.89,Default,,0,0,0,,Oh!
 Dialogue: 10,0:33:47.06,0:33:49.86,Default,,0,0,0,,Shiva, are you ready?
-Dialogue: 10,0:33:50.94,0:33:53.82,Default,,0,0,0,,Just a minute! I'll be right there!
+Dialogue: 10,0:33:50.94,0:33:53.82,Default,,0,0,0,,Give me a minute! I'll be right there!
 Dialogue: 10,0:34:17.47,0:34:18.55,Default,,0,0,0,,Shiva?
-Dialogue: 10,0:34:19.59,0:34:21.01,Default,,0,0,0,,Yes!
+Dialogue: 10,0:34:19.59,0:34:21.01,Default,,0,0,0,,Coming!
 Dialogue: 10,0:34:49.83,0:34:54.59,Default,,0,0,0,,{\i1}It should be much safer this way than continuing to stay with me.{\i0}
 Dialogue: 10,0:34:55.67,0:34:57.88,Default,,0,0,0,,If I can find a village with people,
 Dialogue: 10,0:34:58.17,0:35:02.68,Default,,0,0,0,,I'm sure someone generous will help Shiva.
