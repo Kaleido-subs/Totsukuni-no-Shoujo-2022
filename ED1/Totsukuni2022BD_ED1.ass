@@ -22,7 +22,7 @@ Style: ED1,Amatic SC,80,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,130
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function replace_questionmark() return line.text:gsub("?", "{\\fnComing Soon\\fscx100\\fscy115\\b0\\1a&HFE&\\3a&HFE&\\bord0.5\\xshad0.01}?{\r}") end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function replace_questionmark() return line.text:gsub("?", "{\\fnComing Soon\\fscx100\\fscy115\\b400\\1a&HFE&\\3a&HFE&\\bord0.5\\xshad0.01}?{\r}") end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom') and -940 or 0; end
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,template line loop layer 3 notext noblank,!relayer($loop_layer - 1)!
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line,!retime('line',-50,100)!{\fad(200,500)!ln.tag.pos(5,5,0,pos_y())!}
@@ -30,66 +30,66 @@ Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 0 layer 1,{\blur12\
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 2,{\blur0.65}
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line,!replace_questionmark()!
 Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,sync,{ED syncpoint}
-Dialogue: 0,1:05:20.15,1:05:29.15,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:29.15,1:05:38.16,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:38.16,1:05:47.17,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:47.17,1:05:56.18,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:56.18,1:06:05.19,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:05.19,1:06:14.20,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:14.20,1:06:23.21,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:23.21,1:06:32.22,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:32.22,1:06:41.23,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:41.23,1:06:50.24,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:50.24,1:06:59.24,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:59.24,1:07:08.25,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:08.25,1:07:17.26,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:17.26,1:07:26.27,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:26.27,1:07:35.28,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:35.28,1:07:44.29,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:44.29,1:07:53.30,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:53.30,1:08:02.31,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:02.31,1:08:11.32,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:11.32,1:08:20.33,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:20.33,1:08:29.33,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:29.33,1:08:38.34,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:38.34,1:08:47.35,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:47.35,1:08:56.36,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:56.36,1:09:05.37,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:05.37,1:09:14.38,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:14.38,1:09:23.39,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:23.39,1:09:32.40,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:32.40,1:09:41.41,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:41.41,1:09:44.91,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:20.15,1:05:29.15,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:05:29.15,1:05:38.16,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:05:38.16,1:05:47.17,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:05:47.17,1:05:56.18,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:05:56.18,1:06:05.19,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:06:05.19,1:06:14.20,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:06:14.20,1:06:23.21,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:06:23.21,1:06:32.22,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:06:32.22,1:06:41.23,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:06:41.23,1:06:50.24,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:06:50.24,1:06:59.24,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:06:59.24,1:07:08.25,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:07:08.25,1:07:17.26,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:07:17.26,1:07:26.27,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:07:26.27,1:07:35.28,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:07:35.28,1:07:44.29,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:07:44.29,1:07:53.30,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:07:53.30,1:08:02.31,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:08:02.31,1:08:11.32,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:08:11.32,1:08:20.33,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:08:20.33,1:08:29.33,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:08:29.33,1:08:38.34,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:08:38.34,1:08:47.35,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:08:47.35,1:08:56.36,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:08:56.36,1:09:05.37,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:09:05.37,1:09:14.38,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:09:14.38,1:09:23.39,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:09:23.39,1:09:32.40,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:09:32.40,1:09:41.41,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
-Dialogue: 0,1:09:41.41,1:09:44.91,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:20.15,1:05:29.15,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:29.15,1:05:38.16,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:38.16,1:05:47.17,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:47.17,1:05:56.18,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:56.18,1:06:05.19,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:05.19,1:06:14.20,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:14.20,1:06:23.21,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:23.21,1:06:32.22,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:32.22,1:06:41.23,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:41.23,1:06:50.24,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:50.24,1:06:59.24,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:59.24,1:07:08.25,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:08.25,1:07:17.26,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:17.26,1:07:26.27,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:26.27,1:07:35.28,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:35.28,1:07:44.29,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:44.29,1:07:53.30,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:53.30,1:08:02.31,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:02.31,1:08:11.32,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:11.32,1:08:20.33,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:20.33,1:08:29.33,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:29.33,1:08:38.34,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:38.34,1:08:47.35,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:47.35,1:08:56.36,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:56.36,1:09:05.37,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:05.37,1:09:14.38,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:14.38,1:09:23.39,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:23.39,1:09:32.40,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:32.40,1:09:41.41,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:41.41,1:09:44.91,ED1,black,0,0,0,upper,{\an7\pos(960,1006)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:20.15,1:05:29.15,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:29.15,1:05:38.16,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:38.16,1:05:47.17,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:47.17,1:05:56.18,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:56.18,1:06:05.19,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:05.19,1:06:14.20,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:14.20,1:06:23.21,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:23.21,1:06:32.22,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:32.22,1:06:41.23,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:41.23,1:06:50.24,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:50.24,1:06:59.24,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:59.24,1:07:08.25,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:08.25,1:07:17.26,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:17.26,1:07:26.27,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:26.27,1:07:35.28,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:35.28,1:07:44.29,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:44.29,1:07:53.30,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:53.30,1:08:02.31,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:02.31,1:08:11.32,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:11.32,1:08:20.33,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:20.33,1:08:29.33,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:29.33,1:08:38.34,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:38.34,1:08:47.35,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:47.35,1:08:56.36,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:56.36,1:09:05.37,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:05.37,1:09:14.38,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:14.38,1:09:23.39,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:23.39,1:09:32.40,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:32.40,1:09:41.41,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:41.41,1:09:44.91,ED1,black,0,0,0,lower,{\an7\pos(957,1015)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
 Comment: 0,1:05:20.15,1:05:28.65,ED1,eng,0,0,0,kara,I wish I was on yonder hill
 Comment: 0,1:05:30.36,1:05:38.75,ED1,eng,0,0,0,kara,'Tis there I'd sit and cry my fill
 Comment: 0,1:05:39.87,1:05:48.01,ED1,eng,0,0,0,kara,Until every tear would turn a mill
@@ -175,9 +175,9 @@ Dialogue: 2,1:06:24.91,1:06:29.31,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00
 Dialogue: 0,1:06:29.87,1:06:32.40,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I do wonder what
 Dialogue: 1,1:06:29.87,1:06:32.40,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I do wonder what
 Dialogue: 2,1:06:29.87,1:06:32.40,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}I do wonder what
-Dialogue: 0,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b0\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
-Dialogue: 1,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b0\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
-Dialogue: 2,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b0\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
+Dialogue: 0,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b700\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
+Dialogue: 1,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b700\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
+Dialogue: 2,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b700\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
 Dialogue: 0,1:06:38.84,1:06:43.20,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Will the stars grant them what they wish
 Dialogue: 1,1:06:38.84,1:06:43.20,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Will the stars grant them what they wish
 Dialogue: 2,1:06:38.84,1:06:43.20,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Will the stars grant them what they wish
@@ -244,9 +244,9 @@ Dialogue: 2,1:05:30.31,1:05:38.85,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00
 Dialogue: 0,1:05:39.82,1:05:48.11,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Until every tear would turn a mill
 Dialogue: 1,1:05:39.82,1:05:48.11,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Until every tear would turn a mill
 Dialogue: 2,1:05:39.82,1:05:48.11,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}Until every tear would turn a mill
-Dialogue: 0,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Is go dté tú mo mhúirnín slán {## Irish gaelic}
-Dialogue: 1,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Is go dté tú mo mhúirnín slán {## Irish gaelic}
-Dialogue: 2,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}Is go dté tú mo mhúirnín slán {## Irish gaelic}
+Dialogue: 0,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Is go dté tú mo mhúirnín slán
+Dialogue: 1,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Is go dté tú mo mhúirnín slán
+Dialogue: 2,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}Is go dté tú mo mhúirnín slán
 Dialogue: 0,1:06:12.56,1:06:16.14,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}soyogu mori wa
 Dialogue: 1,1:06:12.56,1:06:16.14,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}soyogu mori wa
 Dialogue: 2,1:06:12.56,1:06:16.14,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}soyogu mori wa
