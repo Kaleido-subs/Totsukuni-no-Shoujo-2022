@@ -28,6 +28,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
 Comment: 0,0:05:40.36,0:05:40.36,Default,chapter,0,0,0,,{Part A}
 Comment: 0,0:34:21.58,0:34:21.58,Default,chapter,0,0,0,,{Part B}
 Comment: 0,1:05:20.10,1:05:20.10,Default,chapter,0,0,0,,{ED}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,edsync,{ED syncpoint}
 Dialogue: 10,0:02:42.69,0:02:43.99,Default,,0,0,0,,Heave-ho!
 Dialogue: 10,0:02:47.82,0:02:50.11,Default,,0,0,0,,Okay, just a couple more left.
 Dialogue: 10,0:02:50.11,0:02:53.59,Default,,0,0,0,,{\q2}Yeah. Let's wrap this up \Nand get back to the Inside.
