@@ -65,7 +65,7 @@ subs {
         includeProjectGarbage(false)
 
         scriptInfo {
-            title = "Kaleido-subs"
+            title = get("group").get()
             scaledBorderAndShadow = true
         }
     }
