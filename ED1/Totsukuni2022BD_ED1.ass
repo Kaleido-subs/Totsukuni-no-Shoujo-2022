@@ -18,127 +18,307 @@ Video AR Value: 1.777778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: ED1,CF One Two Trees,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,0,0,2,100,100,38,1
+Style: ED1,Amatic SC,80,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,130,100,0.2,0,1,0,0,2,100,100,34,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,1:05:20.10,1:05:20.10,ED1,,0,0,0,template line loop layer 2,
-Comment: 0,1:05:20.10,1:05:20.10,ED1,,0,0,0,sync,{ED syncpoint}
-Dialogue: 0,1:05:20.15,1:05:29.15,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:29.15,1:05:38.16,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:38.16,1:05:47.17,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:47.17,1:05:56.18,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:56.18,1:06:05.19,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:05.19,1:06:14.20,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:14.20,1:06:23.21,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:23.21,1:06:32.22,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:32.22,1:06:41.23,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:41.23,1:06:50.24,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:50.24,1:06:59.24,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:06:59.24,1:07:08.25,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:08.25,1:07:17.26,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:17.26,1:07:26.27,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:26.27,1:07:35.28,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:35.28,1:07:44.29,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:44.29,1:07:53.30,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:07:53.30,1:08:02.31,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:02.31,1:08:11.32,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:11.32,1:08:20.33,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:20.33,1:08:29.33,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:29.33,1:08:38.34,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:38.34,1:08:47.35,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:47.35,1:08:56.36,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:08:56.36,1:09:05.37,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:05.37,1:09:14.38,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:14.38,1:09:23.39,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:23.39,1:09:32.40,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:32.40,1:09:41.41,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:09:41.41,1:09:44.91,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
-Dialogue: 0,1:05:20.15,1:05:29.15,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:05:29.15,1:05:38.16,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:05:38.16,1:05:47.17,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:05:47.17,1:05:56.18,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:05:56.18,1:06:05.19,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:06:05.19,1:06:14.20,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:06:14.20,1:06:23.21,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:06:23.21,1:06:32.22,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:06:32.22,1:06:41.23,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:06:41.23,1:06:50.24,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:06:50.24,1:06:59.24,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:06:59.24,1:07:08.25,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:07:08.25,1:07:17.26,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:07:17.26,1:07:26.27,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:07:26.27,1:07:35.28,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:07:35.28,1:07:44.29,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:07:44.29,1:07:53.30,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:07:53.30,1:08:02.31,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:08:02.31,1:08:11.32,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:08:11.32,1:08:20.33,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:08:20.33,1:08:29.33,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:08:29.33,1:08:38.34,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:08:38.34,1:08:47.35,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:08:47.35,1:08:56.36,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:08:56.36,1:09:05.37,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:09:05.37,1:09:14.38,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:09:14.38,1:09:23.39,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:09:23.39,1:09:32.40,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:09:32.40,1:09:41.41,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:09:41.41,1:09:44.91,ED1,black,0,0,0,lower,{\an7\pos(957,1033)\c&H060606&\blur10\p1}m -962 -77.5 l 962 -77.5 962 77.5 -962 77.5
-Dialogue: 0,1:05:20.15,1:05:28.65,ED1,eng,0,0,0,kara,I wish I wasn't young and ???
-Dialogue: 0,1:05:30.36,1:05:38.75,ED1,eng,0,0,0,kara,This stair I'll sit and calm my fear
-Dialogue: 0,1:05:39.87,1:05:48.01,ED1,eng,0,0,0,kara,And tear everything all down 'round me
-Dialogue: 0,1:05:48.97,1:05:59.35,ED1,eng,0,0,0,kara,It's a good day to move on in ????
-Dialogue: 0,1:06:12.61,1:06:16.04,ED1,eng,0,0,0,kara,do the swaying trees hold
-Dialogue: 0,1:06:16.08,1:06:20.66,ED1,eng,0,0,0,kara,memories of the gentle wind
-Dialogue: 0,1:06:21.62,1:06:25.13,ED1,eng,0,0,0,kara,what was held inside the
-Dialogue: 0,1:06:25.13,1:06:29.21,ED1,eng,0,0,0,kara,fruit as it split at the skin
-Dialogue: 0,1:06:29.92,1:06:32.30,ED1,eng,0,0,0,kara,I do wonder what
-Dialogue: 0,1:06:32.34,1:06:37.97,ED1,eng,0,0,0,kara,the traveler will find in their journeys?
-Dialogue: 0,1:06:38.89,1:06:43.10,ED1,eng,0,0,0,kara,will the stars grant them what they wish
-Dialogue: 0,1:06:43.15,1:06:46.57,ED1,eng,0,0,0,kara,for while the sun is out
-Dialogue: 0,1:07:05.67,1:07:10.09,ED1,eng,0,0,0,kara,oh please tell me
-Dialogue: 0,1:07:10.34,1:07:14.43,ED1,eng,0,0,0,kara,the reasons if
-Dialogue: 0,1:07:14.51,1:07:22.94,ED1,eng,0,0,0,kara,there's an end to all of this after what we see
-Dialogue: 0,1:07:23.06,1:07:26.98,ED1,eng,0,0,0,kara,your answers will
-Dialogue: 0,1:07:27.65,1:07:31.69,ED1,eng,0,0,0,kara,work just fine with me
-Dialogue: 0,1:07:32.19,1:07:40.16,ED1,eng,0,0,0,kara,if we can be together now still
-Dialogue: 0,1:07:45.71,1:07:53.38,ED1,eng,0,0,0,kara,I've wandered from place to place seeking something with no form
-Dialogue: 0,1:07:54.59,1:08:01.97,ED1,eng,0,0,0,kara,aimlessly I walked, as I braved through every storm
-Dialogue: 0,1:08:03.02,1:08:10.90,ED1,eng,0,0,0,kara,in this ever-changing volatile world we live in
-Dialogue: 0,1:08:11.90,1:08:19.62,ED1,eng,0,0,0,kara,there are some things that will never change through thick and thin
-Dialogue: 0,1:08:58.20,1:09:02.37,ED1,eng,0,0,0,kara,my grateful words
-Dialogue: 0,1:09:02.74,1:09:11.17,ED1,eng,0,0,0,kara,can be heard filling through the emptiness
-Dialogue: 0,1:09:11.46,1:09:15.26,ED1,eng,0,0,0,kara,of these lands before me
-Dialogue: 0,1:09:15.51,1:09:19.76,ED1,eng,0,0,0,kara,I'll say "Thank you"
-Dialogue: 0,1:09:20.05,1:09:24.22,ED1,eng,0,0,0,kara,countless times to you
-Dialogue: 0,1:09:24.39,1:09:32.52,ED1,eng,0,0,0,kara,as many as the stars that are shown
-Dialogue: 0,1:09:33.02,1:09:44.33,ED1,eng,0,0,0,kara,in this mirror of a lake now tonight
-Dialogue: 0,1:05:20.15,1:05:28.65,ED1,rom,0,0,0,kara,I wish I wasn't young and ???
-Dialogue: 0,1:05:30.36,1:05:38.75,ED1,rom,0,0,0,kara,This stair I'll sit and calm my fear
-Dialogue: 0,1:05:39.87,1:05:48.01,ED1,rom,0,0,0,kara,And tear everything all down 'round me
-Dialogue: 0,1:05:48.97,1:05:59.35,ED1,rom,0,0,0,kara,It's a good day to move on in ????
-Dialogue: 0,1:06:12.61,1:06:16.04,ED1,rom,0,0,0,kara,soyogu mori wa
-Dialogue: 0,1:06:16.08,1:06:20.66,ED1,rom,0,0,0,kara,kaze no kioku desu ka
-Dialogue: 0,1:06:21.62,1:06:25.13,ED1,rom,0,0,0,kara,wareta kajitsu ga
-Dialogue: 0,1:06:25.13,1:06:29.21,ED1,rom,0,0,0,kara,hakonda mono wa
-Dialogue: 0,1:06:29.92,1:06:32.30,ED1,rom,0,0,0,kara,tabibito wa
-Dialogue: 0,1:06:32.34,1:06:37.97,ED1,rom,0,0,0,kara,nani wo mitsukeru no deshou
-Dialogue: 0,1:06:38.89,1:06:43.10,ED1,rom,0,0,0,kara,hoshi ha sono yume wo
-Dialogue: 0,1:06:43.15,1:06:46.57,ED1,rom,0,0,0,kara,mitashimasuka
-Dialogue: 0,1:07:05.67,1:07:10.09,ED1,rom,0,0,0,kara,oshiete
-Dialogue: 0,1:07:10.34,1:07:14.43,ED1,rom,0,0,0,kara,doushite
-Dialogue: 0,1:07:14.51,1:07:22.94,ED1,rom,0,0,0,kara,moshimo owari ga aru no nara
-Dialogue: 0,1:07:23.06,1:07:26.98,ED1,rom,0,0,0,kara,kotaete
-Dialogue: 0,1:07:27.65,1:07:31.69,ED1,rom,0,0,0,kara,sore de ii
-Dialogue: 0,1:07:32.19,1:07:40.16,ED1,rom,0,0,0,kara,hitotsu ni nareru nara
-Dialogue: 0,1:07:45.71,1:07:53.38,ED1,rom,0,0,0,kara,katachi nai nani ka wo motomenagara
-Dialogue: 0,1:07:54.59,1:08:01.97,ED1,rom,0,0,0,kara,kyou made samayoi tsudzukemashita
-Dialogue: 0,1:08:03.02,1:08:10.90,ED1,rom,0,0,0,kara,meguri utsurou kono sekai no naka de
-Dialogue: 0,1:08:11.90,1:08:19.62,ED1,rom,0,0,0,kara,kawaranai mono ga arimashita
-Dialogue: 0,1:08:58.20,1:09:02.37,ED1,rom,0,0,0,kara,arigatou
-Dialogue: 0,1:09:02.74,1:09:11.17,ED1,rom,0,0,0,kara,genya ni hibiki watatta
-Dialogue: 0,1:09:11.46,1:09:15.26,ED1,rom,0,0,0,kara,kodama no you ni
-Dialogue: 0,1:09:15.51,1:09:19.76,ED1,rom,0,0,0,kara,arigatou
-Dialogue: 0,1:09:20.05,1:09:24.22,ED1,rom,0,0,0,kara,nando demo
-Dialogue: 0,1:09:24.39,1:09:32.52,ED1,rom,0,0,0,kara,mizu no kagami ni utsuru
-Dialogue: 0,1:09:33.02,1:09:44.33,ED1,rom,0,0,0,kara,hikari no wa no you ni ima
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function replace_questionmark() return line.text:gsub("?", "{\\fnComing Soon\\fscx100\\fscy115\\b0\\1a&HFE&\\3a&HFE&\\bord0.5\\xshad0.01}?{\r}") end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,code once,function pos_y() return orgline.actor:match('rom') and -940 or 0; end
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,template line loop layer 3 notext noblank,!relayer($loop_layer - 1)!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line,!retime('line',-50,100)!{\fad(200,500)!ln.tag.pos(5,5,0,pos_y())!}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 0 layer 1,{\blur12\1a&H45&}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line layer 2,{\blur0.65}
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,mixin line,!replace_questionmark()!
+Comment: 0,0:00:00.00,0:00:00.00,ED1,,0,0,0,sync,{ED syncpoint}
+Dialogue: 0,1:05:20.15,1:05:29.15,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:29.15,1:05:38.16,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:38.16,1:05:47.17,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:47.17,1:05:56.18,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:56.18,1:06:05.19,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:05.19,1:06:14.20,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:14.20,1:06:23.21,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:23.21,1:06:32.22,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:32.22,1:06:41.23,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:41.23,1:06:50.24,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:50.24,1:06:59.24,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:06:59.24,1:07:08.25,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:08.25,1:07:17.26,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:17.26,1:07:26.27,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:26.27,1:07:35.28,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:35.28,1:07:44.29,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:44.29,1:07:53.30,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:07:53.30,1:08:02.31,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:02.31,1:08:11.32,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:11.32,1:08:20.33,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:20.33,1:08:29.33,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:29.33,1:08:38.34,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:38.34,1:08:47.35,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:47.35,1:08:56.36,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:08:56.36,1:09:05.37,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:05.37,1:09:14.38,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:14.38,1:09:23.39,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:23.39,1:09:32.40,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:32.40,1:09:41.41,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:09:41.41,1:09:44.91,ED1,black,0,0,0,upper,{\an7\pos(960,1014)\fnComing Soon\c&H060606&\blur10\p1}m -964 -1023 l 960 -1023 960 -868 -964 -868
+Dialogue: 0,1:05:20.15,1:05:29.15,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:29.15,1:05:38.16,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:38.16,1:05:47.17,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:47.17,1:05:56.18,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:05:56.18,1:06:05.19,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:05.19,1:06:14.20,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:14.20,1:06:23.21,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:23.21,1:06:32.22,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:32.22,1:06:41.23,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:41.23,1:06:50.24,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:50.24,1:06:59.24,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:06:59.24,1:07:08.25,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:08.25,1:07:17.26,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:17.26,1:07:26.27,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:26.27,1:07:35.28,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:35.28,1:07:44.29,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:44.29,1:07:53.30,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:07:53.30,1:08:02.31,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:02.31,1:08:11.32,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:11.32,1:08:20.33,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:20.33,1:08:29.33,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:29.33,1:08:38.34,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:38.34,1:08:47.35,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:47.35,1:08:56.36,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:08:56.36,1:09:05.37,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:05.37,1:09:14.38,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:14.38,1:09:23.39,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:23.39,1:09:32.40,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:32.40,1:09:41.41,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Dialogue: 0,1:09:41.41,1:09:44.91,ED1,black,0,0,0,lower,{\an7\pos(957,1009)\fnComing Soon\c&H060606&\blur10\p1}m -962 -77 l 962 -77 962 78 -962 78
+Comment: 0,1:05:20.15,1:05:28.65,ED1,eng,0,0,0,kara,I wish I was on yonder hill
+Comment: 0,1:05:30.36,1:05:38.75,ED1,eng,0,0,0,kara,'Tis there I'd sit and cry my fill
+Comment: 0,1:05:39.87,1:05:48.01,ED1,eng,0,0,0,kara,Until every tear would turn a mill
+Comment: 0,1:05:48.97,1:06:00.23,ED1,eng,0,0,0,kara,May you go safely, my darling
+Comment: 0,1:06:12.61,1:06:16.04,ED1,eng,0,0,0,kara,Do the swaying trees hold
+Comment: 0,1:06:16.08,1:06:20.66,ED1,eng,0,0,0,kara,Memories of the gentle wind
+Comment: 0,1:06:21.62,1:06:25.13,ED1,eng,0,0,0,kara,What was held inside
+Comment: 0,1:06:24.96,1:06:29.21,ED1,eng,0,0,0,kara,The fruit as it split at the skin
+Comment: 0,1:06:29.92,1:06:32.30,ED1,eng,0,0,0,kara,I do wonder what
+Comment: 0,1:06:32.34,1:06:37.97,ED1,eng,0,0,0,kara,The traveler will find in their journeys?
+Comment: 0,1:06:38.89,1:06:43.10,ED1,eng,0,0,0,kara,Will the stars grant them what they wish
+Comment: 0,1:06:43.15,1:06:46.57,ED1,eng,0,0,0,kara,For while the sun is out
+Comment: 0,1:07:05.67,1:07:10.09,ED1,eng,0,0,0,kara,Oh please tell me
+Comment: 0,1:07:10.34,1:07:14.43,ED1,eng,0,0,0,kara,The reasons
+Comment: 0,1:07:14.51,1:07:22.94,ED1,eng,0,0,0,kara,If there's an end to all of this after what we see
+Comment: 0,1:07:23.06,1:07:26.98,ED1,eng,0,0,0,kara,Your answers will
+Comment: 0,1:07:27.65,1:07:31.69,ED1,eng,0,0,0,kara,Work just fine with me
+Comment: 0,1:07:31.99,1:07:40.16,ED1,eng,0,0,0,kara,If we can be together now still
+Comment: 0,1:07:45.71,1:07:53.38,ED1,eng,0,0,0,kara,I've wandered from place to place seeking something with no form
+Comment: 0,1:07:54.59,1:08:01.97,ED1,eng,0,0,0,kara,Aimlessly I walked, as I braved through every storm
+Comment: 0,1:08:03.02,1:08:10.90,ED1,eng,0,0,0,kara,In this ever-changing volatile world we live in
+Comment: 0,1:08:11.90,1:08:19.62,ED1,eng,0,0,0,kara,There are some things that will never change through thick and thin
+Comment: 0,1:08:58.20,1:09:02.37,ED1,eng,0,0,0,kara,My grateful words
+Comment: 0,1:09:02.74,1:09:11.17,ED1,eng,0,0,0,kara,Can be heard filling through the emptiness
+Comment: 0,1:09:11.46,1:09:15.26,ED1,eng,0,0,0,kara,Of these lands before me
+Comment: 0,1:09:15.51,1:09:19.76,ED1,eng,0,0,0,kara,I'll say "Thank you"
+Comment: 0,1:09:20.05,1:09:24.22,ED1,eng,0,0,0,kara,Countless times to you
+Comment: 0,1:09:24.39,1:09:32.52,ED1,eng,0,0,0,kara,As many as the stars that are shown
+Comment: 0,1:09:33.02,1:09:44.33,ED1,eng,0,0,0,kara,In this mirror of a lake now tonight
+Comment: 0,1:05:20.15,1:05:28.65,ED1,rom,0,0,0,kara,I wish I was on yonder hill
+Comment: 0,1:05:30.36,1:05:38.75,ED1,rom,0,0,0,kara,'Tis there I'd sit and cry my fill
+Comment: 0,1:05:39.87,1:05:48.01,ED1,rom,0,0,0,kara,Until every tear would turn a mill
+Comment: 0,1:05:48.97,1:06:00.23,ED1,rom,0,0,0,kara,Is go dté tú mo mhúirnín slán
+Comment: 0,1:06:12.61,1:06:16.04,ED1,rom,0,0,0,kara,soyogu mori wa
+Comment: 0,1:06:16.08,1:06:20.66,ED1,rom,0,0,0,kara,kaze no kioku desu ka
+Comment: 0,1:06:21.62,1:06:25.13,ED1,rom,0,0,0,kara,wareta kajitsu ga
+Comment: 0,1:06:24.96,1:06:29.21,ED1,rom,0,0,0,kara,hakonda mono wa
+Comment: 0,1:06:29.92,1:06:32.30,ED1,rom,0,0,0,kara,tabibito wa
+Comment: 0,1:06:32.34,1:06:37.97,ED1,rom,0,0,0,kara,nani wo mitsukeru no deshou
+Comment: 0,1:06:38.89,1:06:43.10,ED1,rom,0,0,0,kara,hoshi ha sono yume wo
+Comment: 0,1:06:43.15,1:06:46.57,ED1,rom,0,0,0,kara,mitashimasuka
+Comment: 0,1:07:05.67,1:07:10.09,ED1,rom,0,0,0,kara,oshiete
+Comment: 0,1:07:10.34,1:07:14.43,ED1,rom,0,0,0,kara,doushite
+Comment: 0,1:07:14.51,1:07:22.94,ED1,rom,0,0,0,kara,moshimo owari ga aru no nara
+Comment: 0,1:07:23.06,1:07:26.98,ED1,rom,0,0,0,kara,kotaete
+Comment: 0,1:07:27.65,1:07:31.69,ED1,rom,0,0,0,kara,sore de ii
+Comment: 0,1:07:31.99,1:07:40.16,ED1,rom,0,0,0,kara,hitotsu ni nareru nara
+Comment: 0,1:07:45.71,1:07:53.38,ED1,rom,0,0,0,kara,katachi nai nani ka wo motomenagara
+Comment: 0,1:07:54.59,1:08:01.97,ED1,rom,0,0,0,kara,kyou made samayoi tsudzukemashita
+Comment: 0,1:08:03.02,1:08:10.90,ED1,rom,0,0,0,kara,meguri utsurou kono sekai no naka de
+Comment: 0,1:08:11.90,1:08:19.62,ED1,rom,0,0,0,kara,kawaranai mono ga arimashita
+Comment: 0,1:08:58.20,1:09:02.37,ED1,rom,0,0,0,kara,arigatou
+Comment: 0,1:09:02.74,1:09:11.17,ED1,rom,0,0,0,kara,genya ni hibiki watatta
+Comment: 0,1:09:11.46,1:09:15.26,ED1,rom,0,0,0,kara,kodama no you ni
+Comment: 0,1:09:15.51,1:09:19.76,ED1,rom,0,0,0,kara,arigatou
+Comment: 0,1:09:20.05,1:09:24.22,ED1,rom,0,0,0,kara,nando demo
+Comment: 0,1:09:24.39,1:09:32.52,ED1,rom,0,0,0,kara,mizu no kagami ni utsuru
+Comment: 0,1:09:33.02,1:09:44.33,ED1,rom,0,0,0,kara,hikari no wa no you ni ima
+Dialogue: 0,1:05:20.10,1:05:28.75,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I wish I was on yonder hill
+Dialogue: 1,1:05:20.10,1:05:28.75,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I wish I was on yonder hill
+Dialogue: 2,1:05:20.10,1:05:28.75,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}I wish I was on yonder hill
+Dialogue: 0,1:05:30.31,1:05:38.85,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}'Tis there I'd sit and cry my fill
+Dialogue: 1,1:05:30.31,1:05:38.85,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}'Tis there I'd sit and cry my fill
+Dialogue: 2,1:05:30.31,1:05:38.85,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}'Tis there I'd sit and cry my fill
+Dialogue: 0,1:05:39.82,1:05:48.11,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Until every tear would turn a mill
+Dialogue: 1,1:05:39.82,1:05:48.11,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Until every tear would turn a mill
+Dialogue: 2,1:05:39.82,1:05:48.11,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Until every tear would turn a mill
+Dialogue: 0,1:05:48.92,1:06:00.33,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}May you go safely, my darling
+Dialogue: 1,1:05:48.92,1:06:00.33,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}May you go safely, my darling
+Dialogue: 2,1:05:48.92,1:06:00.33,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}May you go safely, my darling
+Dialogue: 0,1:06:12.56,1:06:16.14,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Do the swaying trees hold
+Dialogue: 1,1:06:12.56,1:06:16.14,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Do the swaying trees hold
+Dialogue: 2,1:06:12.56,1:06:16.14,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Do the swaying trees hold
+Dialogue: 0,1:06:16.03,1:06:20.76,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Memories of the gentle wind
+Dialogue: 1,1:06:16.03,1:06:20.76,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Memories of the gentle wind
+Dialogue: 2,1:06:16.03,1:06:20.76,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Memories of the gentle wind
+Dialogue: 0,1:06:21.57,1:06:25.23,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}What was held inside
+Dialogue: 1,1:06:21.57,1:06:25.23,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}What was held inside
+Dialogue: 2,1:06:21.57,1:06:25.23,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}What was held inside
+Dialogue: 0,1:06:24.91,1:06:29.31,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The fruit as it split at the skin
+Dialogue: 1,1:06:24.91,1:06:29.31,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The fruit as it split at the skin
+Dialogue: 2,1:06:24.91,1:06:29.31,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}The fruit as it split at the skin
+Dialogue: 0,1:06:29.87,1:06:32.40,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I do wonder what
+Dialogue: 1,1:06:29.87,1:06:32.40,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I do wonder what
+Dialogue: 2,1:06:29.87,1:06:32.40,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}I do wonder what
+Dialogue: 0,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b0\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
+Dialogue: 1,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b0\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
+Dialogue: 2,1:06:32.29,1:06:38.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}The traveler will find in their journeys{\fnComing Soon\fscx100\fscy115\b0\1a&HFE&\3a&HFE&\bord0.5\xshad0.01}?{}
+Dialogue: 0,1:06:38.84,1:06:43.20,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Will the stars grant them what they wish
+Dialogue: 1,1:06:38.84,1:06:43.20,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Will the stars grant them what they wish
+Dialogue: 2,1:06:38.84,1:06:43.20,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Will the stars grant them what they wish
+Dialogue: 0,1:06:43.10,1:06:46.67,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}For while the sun is out
+Dialogue: 1,1:06:43.10,1:06:46.67,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}For while the sun is out
+Dialogue: 2,1:06:43.10,1:06:46.67,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}For while the sun is out
+Dialogue: 0,1:07:05.62,1:07:10.19,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Oh please tell me
+Dialogue: 1,1:07:05.62,1:07:10.19,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Oh please tell me
+Dialogue: 2,1:07:05.62,1:07:10.19,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Oh please tell me
+Dialogue: 0,1:07:10.29,1:07:14.53,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The reasons
+Dialogue: 1,1:07:10.29,1:07:14.53,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}The reasons
+Dialogue: 2,1:07:10.29,1:07:14.53,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}The reasons
+Dialogue: 0,1:07:14.46,1:07:23.04,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}If there's an end to all of this after what we see
+Dialogue: 1,1:07:14.46,1:07:23.04,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}If there's an end to all of this after what we see
+Dialogue: 2,1:07:14.46,1:07:23.04,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}If there's an end to all of this after what we see
+Dialogue: 0,1:07:23.01,1:07:27.08,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Your answers will
+Dialogue: 1,1:07:23.01,1:07:27.08,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Your answers will
+Dialogue: 2,1:07:23.01,1:07:27.08,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Your answers will
+Dialogue: 0,1:07:27.60,1:07:31.79,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Work just fine with me
+Dialogue: 1,1:07:27.60,1:07:31.79,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Work just fine with me
+Dialogue: 2,1:07:27.60,1:07:31.79,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Work just fine with me
+Dialogue: 0,1:07:31.94,1:07:40.26,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}If we can be together now still
+Dialogue: 1,1:07:31.94,1:07:40.26,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}If we can be together now still
+Dialogue: 2,1:07:31.94,1:07:40.26,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}If we can be together now still
+Dialogue: 0,1:07:45.66,1:07:53.48,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I've wandered from place to place seeking something with no form
+Dialogue: 1,1:07:45.66,1:07:53.48,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I've wandered from place to place seeking something with no form
+Dialogue: 2,1:07:45.66,1:07:53.48,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}I've wandered from place to place seeking something with no form
+Dialogue: 0,1:07:54.54,1:08:02.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Aimlessly I walked, as I braved through every storm
+Dialogue: 1,1:07:54.54,1:08:02.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Aimlessly I walked, as I braved through every storm
+Dialogue: 2,1:07:54.54,1:08:02.07,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Aimlessly I walked, as I braved through every storm
+Dialogue: 0,1:08:02.97,1:08:11.00,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}In this ever-changing volatile world we live in
+Dialogue: 1,1:08:02.97,1:08:11.00,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}In this ever-changing volatile world we live in
+Dialogue: 2,1:08:02.97,1:08:11.00,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}In this ever-changing volatile world we live in
+Dialogue: 0,1:08:11.85,1:08:19.72,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}There are some things that will never change through thick and thin
+Dialogue: 1,1:08:11.85,1:08:19.72,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}There are some things that will never change through thick and thin
+Dialogue: 2,1:08:11.85,1:08:19.72,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}There are some things that will never change through thick and thin
+Dialogue: 0,1:08:58.15,1:09:02.47,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}My grateful words
+Dialogue: 1,1:08:58.15,1:09:02.47,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}My grateful words
+Dialogue: 2,1:08:58.15,1:09:02.47,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}My grateful words
+Dialogue: 0,1:09:02.69,1:09:11.27,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Can be heard filling through the emptiness
+Dialogue: 1,1:09:02.69,1:09:11.27,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Can be heard filling through the emptiness
+Dialogue: 2,1:09:02.69,1:09:11.27,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Can be heard filling through the emptiness
+Dialogue: 0,1:09:11.41,1:09:15.36,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Of these lands before me
+Dialogue: 1,1:09:11.41,1:09:15.36,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Of these lands before me
+Dialogue: 2,1:09:11.41,1:09:15.36,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Of these lands before me
+Dialogue: 0,1:09:15.46,1:09:19.86,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I'll say "Thank you"
+Dialogue: 1,1:09:15.46,1:09:19.86,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}I'll say "Thank you"
+Dialogue: 2,1:09:15.46,1:09:19.86,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}I'll say "Thank you"
+Dialogue: 0,1:09:20.00,1:09:24.32,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Countless times to you
+Dialogue: 1,1:09:20.00,1:09:24.32,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}Countless times to you
+Dialogue: 2,1:09:20.00,1:09:24.32,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}Countless times to you
+Dialogue: 0,1:09:24.34,1:09:32.62,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}As many as the stars that are shown
+Dialogue: 1,1:09:24.34,1:09:32.62,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}As many as the stars that are shown
+Dialogue: 2,1:09:24.34,1:09:32.62,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}As many as the stars that are shown
+Dialogue: 0,1:09:32.97,1:09:44.43,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}In this mirror of a lake now tonight
+Dialogue: 1,1:09:32.97,1:09:44.43,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur12\1a&H45&}In this mirror of a lake now tonight
+Dialogue: 2,1:09:32.97,1:09:44.43,ED1,eng,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,1006.00)\blur0.65}In this mirror of a lake now tonight
+Dialogue: 0,1:05:20.10,1:05:28.75,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}I wish I was on yonder hill
+Dialogue: 1,1:05:20.10,1:05:28.75,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}I wish I was on yonder hill
+Dialogue: 2,1:05:20.10,1:05:28.75,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}I wish I was on yonder hill
+Dialogue: 0,1:05:30.31,1:05:38.85,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}'Tis there I'd sit and cry my fill
+Dialogue: 1,1:05:30.31,1:05:38.85,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}'Tis there I'd sit and cry my fill
+Dialogue: 2,1:05:30.31,1:05:38.85,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}'Tis there I'd sit and cry my fill
+Dialogue: 0,1:05:39.82,1:05:48.11,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Until every tear would turn a mill
+Dialogue: 1,1:05:39.82,1:05:48.11,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Until every tear would turn a mill
+Dialogue: 2,1:05:39.82,1:05:48.11,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}Until every tear would turn a mill
+Dialogue: 0,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Is go dté tú mo mhúirnín slán {## Irish gaelic}
+Dialogue: 1,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}Is go dté tú mo mhúirnín slán {## Irish gaelic}
+Dialogue: 2,1:05:48.92,1:06:00.33,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}Is go dté tú mo mhúirnín slán {## Irish gaelic}
+Dialogue: 0,1:06:12.56,1:06:16.14,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}soyogu mori wa
+Dialogue: 1,1:06:12.56,1:06:16.14,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}soyogu mori wa
+Dialogue: 2,1:06:12.56,1:06:16.14,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}soyogu mori wa
+Dialogue: 0,1:06:16.03,1:06:20.76,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kaze no kioku desu ka
+Dialogue: 1,1:06:16.03,1:06:20.76,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kaze no kioku desu ka
+Dialogue: 2,1:06:16.03,1:06:20.76,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}kaze no kioku desu ka
+Dialogue: 0,1:06:21.57,1:06:25.23,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}wareta kajitsu ga
+Dialogue: 1,1:06:21.57,1:06:25.23,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}wareta kajitsu ga
+Dialogue: 2,1:06:21.57,1:06:25.23,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}wareta kajitsu ga
+Dialogue: 0,1:06:24.91,1:06:29.31,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}hakonda mono wa
+Dialogue: 1,1:06:24.91,1:06:29.31,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}hakonda mono wa
+Dialogue: 2,1:06:24.91,1:06:29.31,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}hakonda mono wa
+Dialogue: 0,1:06:29.87,1:06:32.40,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}tabibito wa
+Dialogue: 1,1:06:29.87,1:06:32.40,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}tabibito wa
+Dialogue: 2,1:06:29.87,1:06:32.40,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}tabibito wa
+Dialogue: 0,1:06:32.29,1:06:38.07,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}nani wo mitsukeru no deshou
+Dialogue: 1,1:06:32.29,1:06:38.07,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}nani wo mitsukeru no deshou
+Dialogue: 2,1:06:32.29,1:06:38.07,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}nani wo mitsukeru no deshou
+Dialogue: 0,1:06:38.84,1:06:43.20,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}hoshi ha sono yume wo
+Dialogue: 1,1:06:38.84,1:06:43.20,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}hoshi ha sono yume wo
+Dialogue: 2,1:06:38.84,1:06:43.20,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}hoshi ha sono yume wo
+Dialogue: 0,1:06:43.10,1:06:46.67,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}mitashimasuka
+Dialogue: 1,1:06:43.10,1:06:46.67,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}mitashimasuka
+Dialogue: 2,1:06:43.10,1:06:46.67,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}mitashimasuka
+Dialogue: 0,1:07:05.62,1:07:10.19,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}oshiete
+Dialogue: 1,1:07:05.62,1:07:10.19,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}oshiete
+Dialogue: 2,1:07:05.62,1:07:10.19,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}oshiete
+Dialogue: 0,1:07:10.29,1:07:14.53,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}doushite
+Dialogue: 1,1:07:10.29,1:07:14.53,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}doushite
+Dialogue: 2,1:07:10.29,1:07:14.53,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}doushite
+Dialogue: 0,1:07:14.46,1:07:23.04,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}moshimo owari ga aru no nara
+Dialogue: 1,1:07:14.46,1:07:23.04,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}moshimo owari ga aru no nara
+Dialogue: 2,1:07:14.46,1:07:23.04,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}moshimo owari ga aru no nara
+Dialogue: 0,1:07:23.01,1:07:27.08,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kotaete
+Dialogue: 1,1:07:23.01,1:07:27.08,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kotaete
+Dialogue: 2,1:07:23.01,1:07:27.08,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}kotaete
+Dialogue: 0,1:07:27.60,1:07:31.79,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}sore de ii
+Dialogue: 1,1:07:27.60,1:07:31.79,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}sore de ii
+Dialogue: 2,1:07:27.60,1:07:31.79,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}sore de ii
+Dialogue: 0,1:07:31.94,1:07:40.26,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}hitotsu ni nareru nara
+Dialogue: 1,1:07:31.94,1:07:40.26,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}hitotsu ni nareru nara
+Dialogue: 2,1:07:31.94,1:07:40.26,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}hitotsu ni nareru nara
+Dialogue: 0,1:07:45.66,1:07:53.48,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}katachi nai nani ka wo motomenagara
+Dialogue: 1,1:07:45.66,1:07:53.48,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}katachi nai nani ka wo motomenagara
+Dialogue: 2,1:07:45.66,1:07:53.48,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}katachi nai nani ka wo motomenagara
+Dialogue: 0,1:07:54.54,1:08:02.07,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kyou made samayoi tsudzukemashita
+Dialogue: 1,1:07:54.54,1:08:02.07,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kyou made samayoi tsudzukemashita
+Dialogue: 2,1:07:54.54,1:08:02.07,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}kyou made samayoi tsudzukemashita
+Dialogue: 0,1:08:02.97,1:08:11.00,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}meguri utsurou kono sekai no naka de
+Dialogue: 1,1:08:02.97,1:08:11.00,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}meguri utsurou kono sekai no naka de
+Dialogue: 2,1:08:02.97,1:08:11.00,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}meguri utsurou kono sekai no naka de
+Dialogue: 0,1:08:11.85,1:08:19.72,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kawaranai mono ga arimashita
+Dialogue: 1,1:08:11.85,1:08:19.72,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kawaranai mono ga arimashita
+Dialogue: 2,1:08:11.85,1:08:19.72,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}kawaranai mono ga arimashita
+Dialogue: 0,1:08:58.15,1:09:02.47,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}arigatou
+Dialogue: 1,1:08:58.15,1:09:02.47,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}arigatou
+Dialogue: 2,1:08:58.15,1:09:02.47,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}arigatou
+Dialogue: 0,1:09:02.69,1:09:11.27,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}genya ni hibiki watatta
+Dialogue: 1,1:09:02.69,1:09:11.27,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}genya ni hibiki watatta
+Dialogue: 2,1:09:02.69,1:09:11.27,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}genya ni hibiki watatta
+Dialogue: 0,1:09:11.41,1:09:15.36,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kodama no you ni
+Dialogue: 1,1:09:11.41,1:09:15.36,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}kodama no you ni
+Dialogue: 2,1:09:11.41,1:09:15.36,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}kodama no you ni
+Dialogue: 0,1:09:15.46,1:09:19.86,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}arigatou
+Dialogue: 1,1:09:15.46,1:09:19.86,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}arigatou
+Dialogue: 2,1:09:15.46,1:09:19.86,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}arigatou
+Dialogue: 0,1:09:20.00,1:09:24.32,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}nando demo
+Dialogue: 1,1:09:20.00,1:09:24.32,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}nando demo
+Dialogue: 2,1:09:20.00,1:09:24.32,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}nando demo
+Dialogue: 0,1:09:24.34,1:09:32.62,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}mizu no kagami ni utsuru
+Dialogue: 1,1:09:24.34,1:09:32.62,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}mizu no kagami ni utsuru
+Dialogue: 2,1:09:24.34,1:09:32.62,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}mizu no kagami ni utsuru
+Dialogue: 0,1:09:32.97,1:09:44.43,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}hikari no wa no you ni ima
+Dialogue: 1,1:09:32.97,1:09:44.43,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur12\1a&H45&}hikari no wa no you ni ima
+Dialogue: 2,1:09:32.97,1:09:44.43,ED1,rom,0,0,0,fx,{\fad(200,500)\an5\pos(960.00,66.00)\blur0.65}hikari no wa no you ni ima
