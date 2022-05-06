@@ -33,13 +33,13 @@ Dialogue: 10,0:02:42.69,0:02:43.99,Default,,0,0,0,,Heave-ho!
 Dialogue: 10,0:02:47.82,0:02:50.11,Default,,0,0,0,,Okay, just a couple more left.
 Dialogue: 10,0:02:50.11,0:02:53.59,Default,,0,0,0,,{\q2}Yeah. Let's wrap this up \Nand get back to the Inside.
 Dialogue: 10,0:02:54.09,0:02:55.99,Default,,0,0,0,,It's a long trip back.
-Dialogue: 10,0:03:03.18,0:03:03.99,Default,,0,0,0,,Wrong...{NN: This bugged me last time. I'm not sure what it's trying to say, exactly.}
+Dialogue: 10,0:03:03.18,0:03:03.99,Default,,0,0,0,,Right.
 Dialogue: 10,0:03:27.26,0:03:28.23,Default,,0,0,0,,Wrong...{NN: This bugged me last time. I'm not sure what it's trying to say, exactly.}
 Dialogue: 10,0:03:29.95,0:03:32.68,Default,,0,0,0,,But it's very clean.
 Dialogue: 10,0:03:33.65,0:03:34.53,Default,,0,0,0,,Almost as if...
 Dialogue: 10,0:03:51.10,0:03:54.03,Default,,0,0,0,,Hang on. I think I heard something.
 Dialogue: 10,0:03:54.03,0:03:56.90,Default,,0,0,0,,You sure? Neither of us heard anything.
-Dialogue: 10,0:03:56.90,0:03:59.20,Default,,0,0,0,,I'm sure of it. There's someone around here."{NN: You copied in one of my quotes.}
+Dialogue: 10,0:03:56.90,0:03:59.20,Default,,0,0,0,,I'm sure of it. There's someone around here.
 Dialogue: 10,0:03:59.20,0:04:00.75,Default,,0,0,0,,It might be a survivor.
 Dialogue: 10,0:04:02.60,0:04:03.85,Default,,0,0,0,,Don't be hasty!
 Dialogue: 10,0:04:03.85,0:04:06.60,Default,,0,0,0,,What if it's an Outsider?
@@ -110,7 +110,7 @@ Dialogue: 10,0:09:16.55,0:09:19.24,Default,,0,0,0,,No, I am not.
 Dialogue: 10,0:09:19.96,0:09:23.08,Default,,0,0,0,,Same as me, then.{NN: Maybe something a little more "I guess."}
 Dialogue: 10,0:09:34.20,0:09:36.50,Default,,0,0,0,,Do you live alone?
 Dialogue: 10,0:09:37.29,0:09:38.09,Default,,0,0,0,,Hmm.{NN: Comment out.}
-Dialogue: 10,0:09:39.12,0:09:44.69,Default,,0,0,0,,You could that I drop by here on occasion.{NN: "You could say that." But maybe "Perhaps. Or rather, it may be better said that I find myself here every so often."}
+Dialogue: 10,0:09:39.12,0:09:44.69,Default,,0,0,0,,You could say that I drop by here on occasion.{NN: But maybe "Perhaps. Or rather, you could say that I find myself here every so often."}
 Dialogue: 10,0:09:45.13,0:09:46.41,Default,,0,0,0,,Really?
 Dialogue: 10,0:10:01.75,0:10:03.80,Default,,0,0,0,,Do you know where your house is?
 Dialogue: 10,0:10:03.80,0:10:06.02,Default,,0,0,0,,No, I dunno.
@@ -541,8 +541,8 @@ Dialogue: 10,0:46:45.34,0:46:47.74,Default,,0,0,0,,{\i1}What could I do for Shiv
 Dialogue: 10,0:46:52.45,0:46:53.77,Default,,0,0,0,,{\i1}A soul...
 Dialogue: 10,0:46:58.56,0:47:01.69,Default,,0,0,0,,{\i1}If only I had a soul...
 Dialogue: 10,0:47:27.96,0:47:29.55,Default,,0,0,0,,{\i1}If I just attack him from behind...
-Dialogue: 10,0:47:30.05,0:47:32.79,Default,,0,0,0,,{\i1}There is no other choice. I must do this.{can't be helped /shrugemoji}
-Dialogue: 10,0:47:37.92,0:47:42.23,Default,,0,0,0,,{\i1}But would that be what she wished for?{shouldn't be past tense "does she want me to do this?" or "would she approve of me doing this" klinda thing.}
+Dialogue: 10,0:47:30.05,0:47:32.79,Default,,0,0,0,,{\i1}There is no other choice. I must do this.{can't be helped /shrugemoji}{NN: tfw no ideas for more creative ways to handle this here}
+Dialogue: 10,0:47:37.92,0:47:42.23,Default,,0,0,0,,{\i1}But would that be what she wished for?{shouldn't be past tense "does she want me to do this?" or "would she approve of me doing this" klinda thing.}{NN: Tenses are a bit weird, I think. "But is that what she would wish for?}
 Dialogue: 10,0:47:44.18,0:47:48.33,Default,,0,0,0,,{\i1}What am I thinking? This is as if...
 Dialogue: 10,0:47:49.17,0:47:50.16,Default,,0,0,0,,{\i1}I must return.
 Dialogue: 10,0:47:50.79,0:47:51.37,Default,,0,0,0,,Wha...
@@ -574,7 +574,7 @@ Dialogue: 10,0:50:25.13,0:50:28.53,Default,,0,0,0,,Shiva, you brought this for m
 Dialogue: 10,0:52:15.34,0:52:16.56,Default,,0,0,0,,Here it is.
 Dialogue: 10,0:52:39.31,0:52:41.49,Default,,0,0,0,,Stay with her for a moment.
 Dialogue: 10,0:54:02.44,0:54:04.26,Default,,0,0,0,,We'll head further down.
-Dialogue: 10,0:54:07.90,0:54:12.12,Default,,0,0,0,,Don't get lost.
+Dialogue: 10,0:54:07.90,0:54:12.12,Default,,0,0,0,,Don't get lost.{NN: Repeating itself seems to be this guy's thing. Maybe imitate it? Either through timing or just rendering it twice. There was one instance further back with the "I'm home" line in the forest.}
 Dialogue: 10,0:54:43.65,0:54:44.86,Default,,0,0,0,,This is it.
 Dialogue: 10,0:54:45.27,0:54:46.57,Default,,0,0,0,,This is it.
 Dialogue: 10,0:54:59.80,0:55:02.02,Default,,0,0,0,,This is the closest.
@@ -585,25 +585,25 @@ Dialogue: 10,0:55:18.29,0:55:20.92,Default,,0,0,0,,I can hear something.
 Dialogue: 10,0:55:20.92,0:55:22.68,Default,,0,0,0,,It's Mother.
 Dialogue: 10,0:55:22.68,0:55:24.82,Default,,0,0,0,,It's Mother's voice.
 Dialogue: 10,0:55:24.82,0:55:26.84,Default,,0,0,0,,It's more like a sound than a voice.
-Dialogue: 10,0:55:27.56,0:55:31.83,Default,,0,0,0,,{\q2}Words don't do it justice. \NIt's more like a song.{damn, an underwater surround sound system by Dolby?}
+Dialogue: 10,0:55:27.56,0:55:31.83,Default,,0,0,0,,{\q2}Words don't do it justice. \NIt's more like a song.{damn, an underwater surround sound system by Dolby?}{NN: "It's more like a song" could probably afford to be different than the "It's more like a sound."}
 Dialogue: 10,0:55:37.84,0:55:41.57,Default,,0,0,0,,Now, speak to Mother.
 Dialogue: 10,0:55:47.41,0:55:48.83,Default,,0,0,0,,I would like to ask for a favour.{Dormammu I've Come To Bargain}
 Dialogue: 10,0:55:51.78,0:55:52.83,Default,,0,0,0,,Please...
-Dialogue: 10,0:55:54.57,0:55:56.09,Default,,0,0,0,,Save us.
+Dialogue: 10,0:55:54.57,0:55:56.09,Default,,0,0,0,,Save us.{NN: "Us" or "her"? I see what you're going for there and am fine either way, but I think it's more about her specifically.}
 Dialogue: 10,0:55:57.04,0:55:59.93,Default,,0,0,0,,Please tell me how to break her curse.
 Dialogue: 10,0:56:03.23,0:56:05.58,Default,,0,0,0,,I'll do anything I can to help!{I can to help ->you ask of me as in he'll sell his ass if it means Shiva is saved. Simply "I'll do anything" works too, but this line should also have the "if it's within my abilities" part}
 Dialogue: 10,0:56:06.20,0:56:08.23,Default,,0,0,0,,She is my light...
 Dialogue: 10,0:56:13.18,0:56:16.76,Default,,0,0,0,,I was always in the dark.{Mother: OooooOOOOoooooOOooo}
 Dialogue: 10,0:56:17.94,0:56:19.86,Default,,0,0,0,,If Shiva weren't there,
 Dialogue: 10,0:56:20.87,0:56:22.55,Default,,0,0,0,,I would've been that way forever.
-Dialogue: 10,0:56:23.94,0:56:29.96,Default,,0,0,0,,{\q2}Forgetting my breath, my pulse, \Nmy sleep, and even myself... {###}
+Dialogue: 10,0:56:23.94,0:56:29.96,Default,,0,0,0,,{\q2}Forgetting my breath, my pulse, \Nmy sleep, and even myself... {###}{NN: Maybe just get more descriptive? "Forgetting the sound of my breath, the feel of my pulse, the need to sleep, and even myself."? Or something similar.}
 Dialogue: 10,0:56:30.44,0:56:34.74,Default,,0,0,0,,{\q2}I don't want her to suffer the way I did! \NTo lose everything!
 Dialogue: 10,0:56:37.68,0:56:38.90,Default,,0,0,0,,Please.
 Dialogue: 10,0:56:39.44,0:56:44.00,Default,,0,0,0,,There's nothing more I can do for her.
 Dialogue: 10,0:56:45.36,0:56:47.55,Default,,0,0,0,,I beg you. Please, save Shiva's soul.
 Dialogue: 10,0:56:49.74,0:56:52.07,Default,,0,0,0,,If you can hear my voice,
 Dialogue: 10,0:56:53.19,0:56:55.30,Default,,0,0,0,,please break this curse.
-Dialogue: 10,0:57:00.70,0:57:01.89,Default,,0,0,0,,Shiva...
+Dialogue: 10,0:57:00.70,0:57:01.89,Default,,0,0,0,,Shiva...{NN: I think this up to when the other guy speaks should be in italics?}
 Dialogue: 10,0:57:05.99,0:57:06.93,Default,,0,0,0,,I...
 Dialogue: 10,0:57:07.92,0:57:13.05,Default,,0,0,0,,There was nothing more I could do for you. {how tf is she breathing underwater while asleep}
 Dialogue: 10,0:57:24.85,0:57:27.26,Default,,0,0,0,,All I wanted...
@@ -621,14 +621,14 @@ Dialogue: 10,0:59:57.51,0:59:58.37,Default,,0,0,0,,No!
 Dialogue: 10,0:59:58.83,1:00:00.91,Default,,0,0,0,,Don't leave me!
 Dialogue: 10,1:00:00.91,1:00:02.79,Default,,0,0,0,,Stay with me!
 Dialogue: 10,1:00:05.09,1:00:07.43,Default,,0,0,0,,All right. I will.
-Dialogue: 10,1:00:20.99,1:00:22.53,Default,,0,0,0,,{\i1}If even someone like me
+Dialogue: 10,1:00:20.99,1:00:22.53,Default,,0,0,0,,{\i1}If even someone like me{NN: The "even" doesn't work here imo. "If a (something) such as me"?}
 Dialogue: 10,1:00:24.36,1:00:26.98,Default,,0,0,0,,{\i1}can become your light...
 Dialogue: 10,1:00:46.70,1:00:47.94,Default,,0,0,0,,{*}Doctor{*Sensei}...
 Dialogue: 10,1:00:50.24,1:00:53.66,Default,,0,0,0,,I think I was having a dream.
 Dialogue: 10,1:00:54.41,1:00:57.04,Default,,0,0,0,,A really scary dream.
 Dialogue: 10,1:00:57.50,1:01:02.06,Default,,0,0,0,,{\q2}It was dark and quiet, and it felt like \NI was going to be alone again...
 Dialogue: 10,1:01:02.79,1:01:05.45,Default,,0,0,0,,Don't worry. I won't be leaving you.
-Dialogue: 10,1:01:13.00,1:01:13.78,Default,,0,0,0,,Oh...
+Dialogue: 10,1:01:13.00,1:01:13.78,Default,,0,0,0,,Oh...{NN: Comment out?}
 Dialogue: 10,1:01:15.65,1:01:17.95,Default,,0,0,0,,Sorry. I took it without asking.
 Dialogue: 10,1:01:18.42,1:01:21.16,Default,,0,0,0,,Don't be. Thank you, Shiva.
 Dialogue: 10,1:01:21.72,1:01:26.49,Default,,0,0,0,,{\q2}Because of you, I decided \NI should start taking better care of it.
@@ -637,7 +637,7 @@ Dialogue: 10,1:01:27.40,1:01:28.58,Default,,0,0,0,,Would you open it?
 Dialogue: 10,1:01:32.69,1:01:34.75,Default,,0,0,0,,Shiva?
 Dialogue: 10,1:01:58.00,1:02:01.03,Default,,0,0,0,,{*}Doctor{*Sensei}, I can walk.
 Dialogue: 10,1:02:21.86,1:02:23.12,Default,,0,0,0,,{*}Doctor{*Sensei}.
-Dialogue: 10,1:02:23.12,1:02:23.93,Default,,0,0,0,,Mhm?
+Dialogue: 10,1:02:23.12,1:02:23.93,Default,,0,0,0,,Mhm?{NN: Comment out?}
 Dialogue: 10,1:02:25.35,1:02:26.03,Default,,0,0,0,,Here you go.
 Dialogue: 10,1:02:31.60,1:02:33.53,Default,,0,0,0,,Thank you, Shiva.
 Dialogue: 10,1:02:55.53,1:02:57.63,Default,,0,0,0,,{*}Doctor{*Sensei}, sorry for making you wait!
