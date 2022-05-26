@@ -94,9 +94,17 @@ subs {
                 lang("jpn")
                 default(true)
             }
-            audio() {
+            audio(0) {
                 lang("jpn")
+                name("AAC 2.0")
                 default(true)
+                forced(false)
+            }
+            audio(1) {
+                lang("jpn")
+                name("AAC 5.1")
+                default(false)
+                forced(false)
             }
             includeChapters(false)
             attachments { include(false) }
