@@ -30,14 +30,14 @@ subs {
         loglevel(Automation.LogLevel.WARNING)
     }
 
-    val ed_ktemplate by task<Automation> {
-        from(get("ED"))
+    // val ed_ktemplate by task<Automation> {
+    //     from(get("ED"))
 
-        video(get("premux"))
-        script("0x.KaraTemplater.moon")
-        macro("0x539's Templater")
-        loglevel(Automation.LogLevel.WARNING)
-    }
+    //     video(get("premux"))
+    //     script("0x.KaraTemplater.moon")
+    //     macro("0x539's Templater")
+    //     loglevel(Automation.LogLevel.WARNING)
+    // }
 
     merge {
         from(get("dialogue"))
@@ -52,7 +52,8 @@ subs {
         }
 
         if (propertyExists("ED")) {
-            from(ed_ktemplate.item()) {
+            // from(ed_ktemplate.item()) {
+            from(from(get("ED"))) {
                 syncSourceLine("sync")
                 syncTargetLine("edsync")
             }
