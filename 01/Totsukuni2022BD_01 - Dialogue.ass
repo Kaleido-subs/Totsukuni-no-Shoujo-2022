@@ -133,7 +133,7 @@ Dialogue: 10,0:11:17.52,0:11:18.95,Default,,0,0,0,,Are you leaving me?
 Dialogue: 10,0:11:19.33,0:11:21.95,Default,,0,0,0,,Yes, but just for the night.
 Dialogue: 10,0:11:21.95,0:11:23.00,Default,,0,0,0,,Really?
 Dialogue: 10,0:11:23.81,0:11:27.78,Default,,0,0,0,,{\q2}Don't worry. You will be safe here \Nso long as you don't go outside.
-Dialogue: 10,0:11:27.78,0:11:29.80,Default,,0,0,0,,{\q2}I will remain within earshot \Nshould you need me.{NN: }{### :thonk: I assume the line was meh (which I think too), so changed it}
+Dialogue: 10,0:11:27.78,0:11:29.80,Default,,0,0,0,,{\q2}I will remain within earshot \Nshould you need me.
 Dialogue: 10,0:11:30.34,0:11:31.34,Default,,0,0,0,,Okay.
 Dialogue: 10,0:11:31.95,0:11:34.72,Default,,0,0,0,,Then let me walk you to the door!
 Dialogue: 10,0:11:41.48,0:11:42.16,Default,,0,0,0,,Oh!
@@ -196,7 +196,7 @@ Dialogue: 10,0:17:12.09,0:17:13.18,Default,,0,0,0,,All right!
 Dialogue: 10,0:17:13.18,0:17:13.99,Default,,0,0,0,,Oh.
 Dialogue: 10,0:17:13.18,0:17:13.99,Alt,,0,0,0,,Oh.
 Dialogue: 10,0:17:13.99,0:17:14.99,Default,,0,0,0,,Thank you.
-Dialogue: 10,0:17:17.31,0:17:20.63,Default,,0,0,0,,{*}Doctor{*Sensei}, there's some food I wanna eat!{NN: This fails the logic check. She just wants to eat it. The info isn't in the Japanese, and the "I've never seen such a black pancake suggests she's seen/had them before."}{### how's this?}
+Dialogue: 10,0:17:17.31,0:17:20.63,Default,,0,0,0,,{*}Doctor{*Sensei}, there's some food I wanna eat!
 Dialogue: 10,0:17:20.63,0:17:26.15,Default,,0,0,0,,{\q2\t(2386,5248,\c&H070705&\3c&H070705&\4c&H070705&)\t(4914,5206,\alpha&HFF&)}It's really puffy and sweet, \Nand it has lots of sugar...
 Dialogue: 10,0:17:29.44,0:17:32.39,Default,,0,0,0,,Apologies. It proved quite a feat.
 Dialogue: 10,0:17:33.47,0:17:35.40,Default,,0,0,0,,Oh no, I'm sorry.
@@ -357,7 +357,7 @@ Dialogue: 10,0:27:49.49,0:27:50.52,Default,,0,0,0,,I see.
 Dialogue: 10,0:27:51.04,0:27:53.57,Default,,0,0,0,,I've talked a little too much.
 Dialogue: 10,0:27:55.09,0:27:57.61,Default,,0,0,0,,{\q2}We've been on our feet all day, \Nso you must be tired.
 Dialogue: 10,0:28:00.08,0:28:01.58,Default,,0,0,0,,Sleep well.
-Comment: 10,0:29:13.48,0:29:13.48,Default,,0,0,0,,We should really see if we can get a good pair of ears on this. It seems kind of important. {### Sounds like "stheru"?}
+Comment: 10,0:29:13.48,0:29:13.48,Default,,0,0,0,,We should really see if we can get a good pair of ears on this. It seems kind of important.
 Dialogue: 10,0:28:01.99,0:28:04.86,Default,,0,0,0,,Thank you. Good night, {*}Doctor{*Sensei}.
 Dialogue: 10,0:28:05.29,0:28:06.28,Default,,0,0,0,,Good night.
 Dialogue: 10,0:29:20.72,0:29:21.74,Default,,0,0,0,,Stop...
@@ -512,7 +512,7 @@ Dialogue: 10,0:45:08.39,0:45:11.06,Default,,0,0,0,,You can come with us as a vil
 Dialogue: 10,0:45:08.39,0:45:10.40,Alt,,0,0,0,,{\i1}Why now of all times?
 Dialogue: 10,0:45:11.06,0:45:14.40,Default,,0,0,0,,{\i1}Why right after I found out about her curse?
 Dialogue: 10,0:45:11.06,0:45:13.53,Default,,0,0,0,,{\an8}Or you can even stop by my house first.
-Dialogue: 10,0:45:13.53,0:45:16.84,Default,,0,0,0,,{\an8}If you're scared you're imposing on us, don't be! {### I don't like this line}
+Dialogue: 10,0:45:13.53,0:45:16.84,Default,,0,0,0,,{\an8}If you're scared you're imposing on us, don't be!
 Dialogue: 10,0:45:16.84,0:45:18.36,Default,,0,0,0,,We're fine! Just go!
 Dialogue: 10,0:45:18.36,0:45:20.57,Default,,0,0,0,,I-Is that so? I get it.
 Dialogue: 10,0:45:20.57,0:45:24.97,Default,,0,0,0,,{\q2}I don't mean to overstep, \Nbut my village is down the road to the west.
