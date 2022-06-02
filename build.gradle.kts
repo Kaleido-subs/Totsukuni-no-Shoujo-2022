@@ -53,7 +53,7 @@ subs {
 
         if (propertyExists("ED")) {
             // from(ed_ktemplate.item()) {
-            from(from(get("ED"))) {
+            from(get("ED")) {
                 syncSourceLine("sync")
                 syncTargetLine("edsync")
             }
