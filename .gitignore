@@ -11,6 +11,7 @@
 !*.mscx
 !*.xml
 !*/
+!torrent_desc_*.txt
 
 # Fonts
 !*.otf
@@ -26,6 +27,7 @@
 !settings.gradle.kts
 !sub.properties
 .gradle/*
+.idea/*
 build/*
 
 # Ignoring merged .ass files, since we want those to be generated locally always

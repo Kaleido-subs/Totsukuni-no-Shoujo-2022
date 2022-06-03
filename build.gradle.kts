@@ -1,6 +1,7 @@
 import myaa.subkt.ass.*
 import myaa.subkt.tasks.*
 import myaa.subkt.tasks.Mux.*
+import myaa.subkt.tasks.Anidex.*
 import myaa.subkt.tasks.Nyaa.*
 import java.awt.Color
 import java.time.*
@@ -154,5 +155,69 @@ subs {
         }
 
         out(get("muxout"))
+    }
+
+    alltasks {
+        torrent {
+            trackers(getList("trackers"))
+            from(mux.batchItems())
+            out(get("torrentfile"))
+        }
+
+        nyaa {
+            from(torrent.item())
+            username(get("torrentuser"))
+            password(get("torrentpass"))
+            category(NyaaCategories.ANIME_ENGLISH)
+            hidden(false)
+            information(get("torrentinfo"))
+            torrentDescription(getFile("torrent_desc_nyaa.txt"))
+        }
+
+        anidex {
+            from(torrent.item())
+            apiKey(get("anidexapikey"))
+            category(AnidexCategories.ANIME_SUB)
+            lang(AnidexLanguage.ENGLISH)
+            torrentName(get("title_torrent"))
+            torrentDescription(getFile("torrent_desc_anidex.txt"))
+            group(112)
+            hidden(false)
+        }
+
+        fun SFTP.configure() {
+            host(get("ftphost"))
+            username(get("ftpuser"))
+            password(get("ftppass"))
+            port(getAs<Int>("ftpport"))
+            knownHosts("../known_hosts")
+            identity("../id_rsa")
+        }
+
+        val uploadFiles by task<SFTP> {
+            from(mux.item())
+            configure()
+            into(get("ftpfiledir"))
+        }
+
+        val checkFiles by task<SSHExec> {
+            dependsOn(uploadFiles.item())
+            host(get("sshhost"))
+            username(get("sshusername"))
+            port(getAs<Int>("sshport"))
+            identity("../id_rsa")
+            knownHosts("../known_hosts")
+            command(get("crcCheck"))
+
+            // TODO: Do ErrorMode.FAIL on CRC32 mismatch.
+        }
+
+        val startSeeding by task<SFTP> {
+            // upload files to seedbox and publish to nyaa before initiating seeding
+            dependsOn(uploadFiles.item(), nyaa.item(), anidex.item())
+            from(torrent.item())
+            configure()
+            into(get("ftptorrentdir"))
+        }
     }
 }
