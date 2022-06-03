@@ -19,7 +19,7 @@ fun EventLine.isKaraTemplate(): Boolean {
 }
 
 subs {
-    readProperties("sub.properties")
+    readProperties("sub.properties", "../sekrit.properties")
     episodes(getList("episodes"))
 
     val op_ktemplate by task<Automation> {
