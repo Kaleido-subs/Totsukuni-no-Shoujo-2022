@@ -161,7 +161,8 @@ subs {
         torrent {
             trackers(getList("trackers"))
             from(mux.batchItems())
-            out(get("title_torrent"))
+            comment("GJM")
+            out(get("title_torrent2"))
         }
 
         nyaa {
